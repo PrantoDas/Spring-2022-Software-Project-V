@@ -5,7 +5,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
-builder.Services.AddDbContext<EmployeeDBContext>(context => { context.UseInMemoryDatabase("EmployeeDB"); });
+builder.Services.AddDbContext<StudentDbContext>(context => { context.UseInMemoryDatabase("StudentDB"); });
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -25,6 +25,6 @@ app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}");
+    pattern: "{controller=Students}/{action=Index}/{id?}");
 
 app.Run();

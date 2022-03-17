@@ -1,0 +1,30 @@
+[
+  {
+    "Id": "201-15-14166",
+    "Name": "Motawash Semeen Chowdhury",
+    "Age": 22,
+    "Email": "motawash15-14166@diu.edu.bd",
+    "Section": "I+K"
+  },
+  {
+    "Id": "201-15-14179",
+    "Name": "Tasmiah Tababsum Kashfi",
+    "Age": 21,
+    "Email": "tasmiah15-14179@diu.edu.bd",
+    "Section": "I+K"
+  },
+  {
+    "Id": "201-15-14198",
+    "Name": "Shaima Jahan",
+    "Age": 20,
+    "Email": "shaima15-14198@diu.edu.bd",
+    "Section": "J"
+  },
+  {
+    "Id": "201-15-14274",
+    "Name": "Mohammad Nasirul Haque",
+    "Age": 21,
+    "Email": "mohammad15-14274@diu.edu.bd",
+    "Section": "L"
+  }
+]

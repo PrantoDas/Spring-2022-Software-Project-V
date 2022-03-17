@@ -8,6 +8,7 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using DemoWebApp.DBContexts;
 using DemoWebApp.Models;
+using Newtonsoft.Json;
 
 namespace DemoWebApp.Controllers
 {
@@ -23,6 +24,11 @@ namespace DemoWebApp.Controllers
         // GET: Students
         public async Task<IActionResult> Index()
         {
+            if (_context.Students.ToList().Count == 0)
+            {
+                await LoadStudentData();
+            }
+
             return View(await _context.Students.ToListAsync());
         }
 
@@ -149,6 +155,26 @@ namespace DemoWebApp.Controllers
         private bool StudentExists(string id)
         {
             return _context.Students.Any(e => e.Id == id);
+        }
+
+        private async Task LoadStudentData()
+        {
+            StreamReader r = new StreamReader("wwwroot/JsonData/Student.json");
+
+            string jsonString = r.ReadToEnd();
+            List<Student> students = JsonConvert.DeserializeObject<List<Student>>(jsonString);
+            foreach (Student student in students)
+            {
+                _context.Add(new Student
+                {
+                    Id = student.Id,
+                    Name = student.Name,
+                    Age = student.Age,
+                    Email = student.Email,
+                    Section = student.Section,
+                });
+            }
+            await _context.SaveChangesAsync();
         }
     }
 }

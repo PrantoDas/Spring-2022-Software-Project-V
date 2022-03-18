@@ -34,6 +34,9 @@
             <th>
                 @Html.DisplayNameFor(model => model.Section)
             </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CGPA)
+            </th>
             <th></th>
         </tr>
     </thead>
@@ -51,6 +54,9 @@
             </td>
             <td>
                 @Html.DisplayFor(modelItem => item.Section)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CGPA)
             </td>
             <td>
                 <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |

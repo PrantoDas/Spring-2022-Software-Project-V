@@ -15,5 +15,6 @@ namespace DemoWebApp.DBContexts
         public DbSet<Course> Course { get; set; }
         public DbSet<Books> Books { get; set; }
         public DbSet<Teacher> Teachers { get; set; }
+        public DbSet<Department> Departments { get; set; }
     }
 }

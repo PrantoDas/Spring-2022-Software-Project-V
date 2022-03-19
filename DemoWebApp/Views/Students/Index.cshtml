@@ -4,10 +4,22 @@
     ViewData["Title"] = "Index";
 }
 
-<h1>Index</h1>
 
-<p>
-    <a asp-action="Create">Create New</a>
+<style>
+body {
+  background: url('https://img.freepik.com/free-photo/globe-technology-business-with-gradient-wallpaper_53876-97642.jpg?t=st=1647026309~exp=1647026909~hmac=8644b8bb5cc0dd3d54fd43b1aca14ac14afb04a5b7252c8f6034713b34b6a878&w=900') no-repeat center center fixed;
+  background-size: cover;
+  opacity: 2.0;
+}
+</style>
+
+
+<h1 align="center">List Of Students</h1>
+
+<p> 
+   <a 
+   type="button" class="btn btn-outline-dark"
+   asp-action="Create">Create New</a>
 </p>
 
 <!-- Specific section -->
@@ -19,7 +31,7 @@
     </p>
 </form>
 
-<table class="table">
+<table class="table table-success table-striped table-bordered">
     <thead>
         <tr>
             <th>
@@ -59,9 +71,17 @@
                 @Html.DisplayFor(modelItem => item.CGPA)
             </td>
             <td>
-                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                <a
+                type="button" class="btn btn-outline-dark"
+                asp-action="Edit" asp-route-id="@item.Id">Edit</a> 
+
+                <a
+                type="button" class="btn btn-outline-dark"
+                asp-action="Details" asp-route-id="@item.Id">Details</a> 
+
+                <a
+                type="button" class="btn btn-outline-dark"
+                asp-action="Delete" asp-route-id="@item.Id">Delete</a>
             </td>
         </tr>
 }

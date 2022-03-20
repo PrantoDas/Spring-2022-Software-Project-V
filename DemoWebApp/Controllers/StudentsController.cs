@@ -78,7 +78,7 @@ namespace DemoWebApp.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,Name,Age,Email,Section,CGPA")] Student student)
+        public async Task<IActionResult> Create([Bind("Id,Name,Birthdate,Email,Section,CGPA")] Student student)
         {
             if (ModelState.IsValid)
             {
@@ -110,7 +110,7 @@ namespace DemoWebApp.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(string id, [Bind("Id,Name,Age,Email,Section,CGPA")] Student student)
+        public async Task<IActionResult> Edit(string id, [Bind("Id,Name,Birthdate,Email,Section,CGPA")] Student student)
         {
             if (id != student.Id)
             {
@@ -186,7 +186,7 @@ namespace DemoWebApp.Controllers
                 {
                     Id = student.Id,
                     Name = student.Name,
-                    Age = student.Age,
+                    //Birthdate = student.Birthdate,
                     Email = student.Email,
                     Section = student.Section,
                 });

@@ -230,17 +230,11 @@
 
     "TotalStudents":,
 
-<<<<<<< Updated upstream
-    "DepartmentHead": "Mohammad Hannan Mahmud Khan",
-
-    "TotalCredits": null
-  },
-=======
         "DepartmentHead": "Mohammad Hannan Mahmud Khan",
 
         "TotalCredits": null
     },
->>>>>>> Stashed changes
+
     {
         "DepartmentId": "PHM",
 
@@ -266,11 +260,7 @@
     {
         "DepartmentId": "PBH",
 
-<<<<<<< Updated upstream
-        "DepartmentName":"Public Health",
-=======
         "DepartmentName": "Public Health",
->>>>>>> Stashed changes
 
         "TotalStudents":,
 

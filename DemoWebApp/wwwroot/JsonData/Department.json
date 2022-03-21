@@ -1,0 +1,117 @@
+[
+  {
+    "DepartmentId": "CSE",
+
+    "DepartmentName": "Computer Science and Engineering",
+
+    "TotalStudents": 18000,
+
+    "DepartmentHead": "Towhid Bhuiyan",
+
+    "TotalCredits": 148
+  },
+  {
+    "DepartmentId": "SWE",
+
+    "DepartmentName": "Software Engineering",
+
+    "TotalStudents": 780,
+
+    "DepartmentHead": "Imran Mahmud",
+
+    "TotalCredits": 145
+
+  },
+  {
+    "DepartmentId": "MCT",
+
+    "DepartmentName": "Multimedia and Creative Technology",
+
+    "TotalStudents": 850,
+
+    "DepartmentHead": "Shaikh Muhammad Allayear",
+
+    "TotalCredits": 147
+
+  },
+  {
+    "DepartmentId": ,
+
+    "DepartmentName": ,
+
+    "TotalStudents": ,
+
+    "DepartmentHead": ,
+
+    "TotalCredits": 
+  },
+  {
+
+  },
+  {
+
+  },
+  {
+
+  },
+  {
+
+  },
+  {
+
+  },
+  {
+
+  },
+  {
+
+  },
+  {
+
+  },
+  {
+
+  },
+  {
+
+  },
+  {
+
+  },
+  {
+
+  },
+  {
+
+  },
+  {
+
+  },
+  {
+
+  },
+  {
+
+  },
+  {
+
+  },
+  {
+
+  },
+  {
+
+  },
+  {
+
+  },
+  {
+
+  },
+  {
+
+  },
+  {
+
+  }
+]

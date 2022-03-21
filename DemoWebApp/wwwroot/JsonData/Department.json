@@ -213,58 +213,58 @@
         "TotalCredits":
     },
     {
-        "DepartmentId":,
+        "DepartmentId": "ARCH",
 
-        "DepartmentName":,
+        "DepartmentName": "Architecture",
 
         "TotalStudents":,
 
-        "DepartmentHead":,
+        "DepartmentHead":"Sheikh Muhammad Rezwan",
 
-        "TotalCredits":
+        "TotalCredits":300
+    },
+  {
+    "DepartmentId": "CE",
+
+    "DepartmentName": "Civil Engineering",
+
+    "TotalStudents":,
+
+    "DepartmentHead": "Mohammad Hannan Mahmud Khan",
+
+    "TotalCredits": null
+  },
+    {
+        "DepartmentId": "PHM",
+
+        "DepartmentName": "Pharmacy",
+
+        "TotalStudents":,
+
+        "DepartmentHead": "Muniruddin Ahmed",
+
+        "TotalCredits": 162
     },
     {
-        "DepartmentId":,
+        "DepartmentId": "NFE",
 
-        "DepartmentName":,
+        "DepartmentName": "Nutrition and Food Engineering",
 
         "TotalStudents":,
 
-        "DepartmentHead":,
+        "DepartmentHead": "Fouzia Akter",
 
-        "TotalCredits":
+        "TotalCredits": 144
     },
     {
-        "DepartmentId":,
+        "DepartmentId": "PBH",
 
-        "DepartmentName":,
-
-        "TotalStudents":,
-
-        "DepartmentHead":,
-
-        "TotalCredits":
-    },
-    {
-        "DepartmentId":,
-
-        "DepartmentName":,
+        "DepartmentName":"Public Health",
 
         "TotalStudents":,
 
-        "DepartmentHead":,
+        "DepartmentHead": "A B M Alauddin Chowdhury",
 
-        "TotalCredits":
-    },
-    {
-        "DepartmentId":,
-
-        "DepartmentName":,
-
-        "TotalStudents":,
-
-        "DepartmentHead":,
-
-        "TotalCredits":
+        "TotalCredits": 52
     }
 ]

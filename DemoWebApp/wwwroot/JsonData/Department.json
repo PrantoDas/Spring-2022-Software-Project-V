@@ -169,48 +169,48 @@
         "TotalCredits":45
     },
     {
-        "DepartmentId":,
+        "DepartmentId":"ISLM",
 
-        "DepartmentName":,
+        "DepartmentName":"Information Science and Library Management",
 
         "TotalStudents":,
 
-        "DepartmentHead":,
+        "DepartmentHead":"Dr. Md. Milan Khan",
 
-        "TotalCredits":
+        "TotalCredits":12
     },
     {
-        "DepartmentId":,
+        "DepartmentId":"ETE",
 
-        "DepartmentName":,
+        "DepartmentName":"Electronics and Telecommunication Engineering",
 
         "TotalStudents":,
 
-        "DepartmentHead":,
+        "DepartmentHead":"Mr. Md. Taslim Arefin",
 
-        "TotalCredits":
+        "TotalCredits":145
     },
     {
-        "DepartmentId":,
+        "DepartmentId":"TE",
 
-        "DepartmentName":,
+        "DepartmentName":"Textile Engineering",
 
         "TotalStudents":,
 
-        "DepartmentHead":,
+        "DepartmentHead":"Mr. Md. Mominur Rhman",
 
-        "TotalCredits":
+        "TotalCredits":150
     },
     {
-        "DepartmentId":,
+        "DepartmentId":"EEE",
 
-        "DepartmentName":,
+        "DepartmentName":"Electrical & Electronic Engineering",
 
         "TotalStudents":,
 
-        "DepartmentHead":,
+        "DepartmentHead":"Dr. Md. Rezwanul Ahsan",
 
-        "TotalCredits":
+        "TotalCredits":235
     },
     {
         "DepartmentId": "ARCH",
@@ -219,22 +219,21 @@
 
         "TotalStudents":,
 
-        "DepartmentHead":"Sheikh Muhammad Rezwan",
+        "DepartmentHead":"Mr. Sheikh Muhammad Rezwan ",
 
         "TotalCredits":300
     },
-  {
-    "DepartmentId": "CE",
+    {
+        "DepartmentId":"CE",
 
-    "DepartmentName": "Civil Engineering",
+        "DepartmentName":"Civil Engineering",
 
-    "TotalStudents":,
+        "TotalStudents":,
 
         "DepartmentHead": "Mohammad Hannan Mahmud Khan",
 
         "TotalCredits": null
     },
-
     {
         "DepartmentId": "PHM",
 

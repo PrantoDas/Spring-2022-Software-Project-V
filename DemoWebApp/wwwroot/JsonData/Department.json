@@ -5,92 +5,80 @@
     "DepartmentName": "Computer Science and Engineering",
 
     "TotalStudents": 18000,
-
     "DepartmentHead": "Towhid Bhuiyan",
-
     "TotalCredits": 148
   },
   {
     "DepartmentId": "SWE",
-
     "DepartmentName": "Software Engineering",
-
     "TotalStudents": 780,
-
     "DepartmentHead": "Imran Mahmud",
-
     "TotalCredits": 145
-
   },
   {
     "DepartmentId": "MCT",
-
     "DepartmentName": "Multimedia and Creative Technology",
-
     "TotalStudents": 850,
-
     "DepartmentHead": "Shaikh Muhammad Allayear",
-
     "TotalCredits": 147
-
   },
   {
-    "DepartmentId": ,
+    "DepartmentId": "GED",
 
-    "DepartmentName": ,
+    "DepartmentName": "General Educational Development",
 
     "TotalStudents": ,
 
-    "DepartmentHead": ,
+    "DepartmentHead": "Md. Kamrul Hossain",
 
     "TotalCredits": 
   },
     {
-        "DepartmentId":,
+        "DepartmentId":"ESDM",
 
-        "DepartmentName":,
+        "DepartmentName":"Environment Science and Disaster Management",
 
         "TotalStudents":,
 
-        "DepartmentHead":,
+        "DepartmentHead":"A. B. M. Kamal Pasha",
 
-        "TotalCredits":
+        "TotalCredits": 130
 
     },
     {
-        "DepartmentId":,
+        "DepartmentId":"CIS",
 
-        "DepartmentName":,
+        "DepartmentName":"Computing and Information System",
 
         "TotalStudents":,
 
-        "DepartmentHead":,
+        "DepartmentHead":"Md. Sarwar Hossain Molla",
 
-        "TotalCredits":
+        "TotalCredits":142
 
     },
     {
-        "DepartmentId":,
+        "DepartmentId":"ITM",
 
-        "DepartmentName":,
+        "DepartmentName":"Information Technology and Management",
 
         "TotalStudents":,
 
-        "DepartmentHead":,
+        "DepartmentHead":"Imran Mahmud",
 
-        "TotalCredits":
+        "TotalCredits":136
 
     },
     {
-        "DepartmentId":,
+        "DepartmentId":"BA",
 
-        "DepartmentName":,
+        "DepartmentName":"Business Administration",
 
         "TotalStudents":,
 
         "DepartmentHead":,
 
-        "TotalCredits":
+        "TotalCredits":126
     },
     {
         "DepartmentId":"THM",

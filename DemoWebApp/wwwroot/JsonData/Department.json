@@ -93,9 +93,42 @@
         "TotalCredits":
     },
     {
-        "DepartmentId":,
+        "DepartmentId":"THM",
 
-        "DepartmentName":,
+        "DepartmentName":"Tourism & Hospitality Management",
+
+        "TotalStudents":,
+
+        "DepartmentHead":"Mr. Mahbub Parvez",
+
+        "TotalCredits":
+    },
+    {
+        "DepartmentId": "IE",
+
+        "DepartmentName": "Innovation & Entrepreneurship",
+
+        "TotalStudents":,
+
+        "DepartmentHead":"Mr. Md. Kamruzzaman",
+
+        "TotalCredits":
+    },
+    {
+        "DepartmentId":"RE",
+
+        "DepartmentName":"Real Estate",
+
+        "TotalStudents":,
+
+        "DepartmentHead":"Dr. Amir Ahmed",
+
+        "TotalCredits":
+    },
+    {
+        "DepartmentId":"BSEM",
+
+        "DepartmentName":"Business studies in E-Business Management",
 
         "TotalStudents":,
 
@@ -104,81 +137,48 @@
         "TotalCredits":
     },
     {
-        "DepartmentId":,
+        "DepartmentId":"ENG",
 
-        "DepartmentName":,
+        "DepartmentName":"English",
 
         "TotalStudents":,
 
-        "DepartmentHead":,
+        "DepartmentHead":"Dr. Liza Sharmin",
 
-        "TotalCredits":
+        "TotalCredits":129
     },
     {
-        "DepartmentId":,
+        "DepartmentId":"LAW",
 
-        "DepartmentName":,
+        "DepartmentName":"Law",
 
         "TotalStudents":,
 
-        "DepartmentHead":,
+        "DepartmentHead":"Dr. Kudrat-E-kudda Babu",
 
-        "TotalCredits":
+        "TotalCredits":144
     },
     {
-        "DepartmentId":,
+        "DepartmentId":"JMC",
 
-        "DepartmentName":,
+        "DepartmentName":"journalism, Media And Communication",
 
         "TotalStudents":,
 
-        "DepartmentHead":,
+        "DepartmentHead":"Mr. Aftab Hossin",
 
-        "TotalCredits":
+        "TotalCredits":142
     },
     {
-        "DepartmentId":,
+        "DepartmentId":"DS",
 
-        "DepartmentName":,
-
-        "TotalStudents":,
-
-        "DepartmentHead":,
-
-        "TotalCredits":
-    },
-    {
-        "DepartmentId":,
-
-        "DepartmentName":,
+        "DepartmentName":"Development Studies",
 
         "TotalStudents":,
 
-        "DepartmentHead":,
+        "DepartmentHead":"Mr. Md. Fouad Hossain Sarker",
 
-        "TotalCredits":
-    },
-    {
-        "DepartmentId":,
-
-        "DepartmentName":,
-
-        "TotalStudents":,
-
-        "DepartmentHead":,
-
-        "TotalCredits":
-    },
-    {
-        "DepartmentId":,
-
-        "DepartmentName":,
-
-        "TotalStudents":,
-
-        "DepartmentHead":,
-
-        "TotalCredits":
+        "TotalCredits":45
     },
     {
         "DepartmentId":,

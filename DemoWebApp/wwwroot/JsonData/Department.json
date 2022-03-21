@@ -45,73 +45,238 @@
 
     "TotalCredits": 
   },
-  {
+    {
+        "DepartmentId":,
 
-  },
-  {
+        "DepartmentName":,
 
-  },
-  {
+        "TotalStudents":,
 
-  },
-  {
+        "DepartmentHead":,
 
-  },
-  {
+        "TotalCredits":
 
-  },
-  {
+    },
+    {
+        "DepartmentId":,
 
-  },
-  {
+        "DepartmentName":,
 
-  },
-  {
+        "TotalStudents":,
 
-  },
-  {
+        "DepartmentHead":,
 
-  },
-  {
+        "TotalCredits":
 
-  },
-  {
+    },
+    {
+        "DepartmentId":,
 
-  },
-  {
+        "DepartmentName":,
 
-  },
-  {
+        "TotalStudents":,
 
-  },
-  {
+        "DepartmentHead":,
 
-  },
-  {
+        "TotalCredits":
 
-  },
-  {
+    },
+    {
+        "DepartmentId":,
 
-  },
-  {
+        "DepartmentName":,
 
-  },
-  {
+        "TotalStudents":,
 
-  },
-  {
+        "DepartmentHead":,
 
-  },
-  {
+        "TotalCredits":
+    },
+    {
+        "DepartmentId":,
 
-  },
-  {
+        "DepartmentName":,
 
-  },
-  {
+        "TotalStudents":,
 
-  },
-  {
+        "DepartmentHead":,
 
-  }
+        "TotalCredits":
+    },
+    {
+        "DepartmentId":,
+
+        "DepartmentName":,
+
+        "TotalStudents":,
+
+        "DepartmentHead":,
+
+        "TotalCredits":
+    },
+    {
+        "DepartmentId":,
+
+        "DepartmentName":,
+
+        "TotalStudents":,
+
+        "DepartmentHead":,
+
+        "TotalCredits":
+    },
+    {
+        "DepartmentId":,
+
+        "DepartmentName":,
+
+        "TotalStudents":,
+
+        "DepartmentHead":,
+
+        "TotalCredits":
+    },
+    {
+        "DepartmentId":,
+
+        "DepartmentName":,
+
+        "TotalStudents":,
+
+        "DepartmentHead":,
+
+        "TotalCredits":
+    },
+    {
+        "DepartmentId":,
+
+        "DepartmentName":,
+
+        "TotalStudents":,
+
+        "DepartmentHead":,
+
+        "TotalCredits":
+    },
+    {
+        "DepartmentId":,
+
+        "DepartmentName":,
+
+        "TotalStudents":,
+
+        "DepartmentHead":,
+
+        "TotalCredits":
+    },
+    {
+        "DepartmentId":,
+
+        "DepartmentName":,
+
+        "TotalStudents":,
+
+        "DepartmentHead":,
+
+        "TotalCredits":
+    },
+    {
+        "DepartmentId":,
+
+        "DepartmentName":,
+
+        "TotalStudents":,
+
+        "DepartmentHead":,
+
+        "TotalCredits":
+    },
+    {
+        "DepartmentId":,
+
+        "DepartmentName":,
+
+        "TotalStudents":,
+
+        "DepartmentHead":,
+
+        "TotalCredits":
+    },
+    {
+        "DepartmentId":,
+
+        "DepartmentName":,
+
+        "TotalStudents":,
+
+        "DepartmentHead":,
+
+        "TotalCredits":
+    },
+    {
+        "DepartmentId":,
+
+        "DepartmentName":,
+
+        "TotalStudents":,
+
+        "DepartmentHead":,
+
+        "TotalCredits":
+    },
+    {
+        "DepartmentId":,
+
+        "DepartmentName":,
+
+        "TotalStudents":,
+
+        "DepartmentHead":,
+
+        "TotalCredits":
+    },
+    {
+        "DepartmentId":,
+
+        "DepartmentName":,
+
+        "TotalStudents":,
+
+        "DepartmentHead":,
+
+        "TotalCredits":
+    },
+    {
+        "DepartmentId":,
+
+        "DepartmentName":,
+
+        "TotalStudents":,
+
+        "DepartmentHead":,
+
+        "TotalCredits":
+    },
+    {
+        "DepartmentId":,
+
+        "DepartmentName":,
+
+        "TotalStudents":,
+
+        "DepartmentHead":,
+
+        "TotalCredits":
+    },
+    {
+        "DepartmentId":,
+
+        "DepartmentName":,
+
+        "TotalStudents":,
+
+        "DepartmentHead":,
+
+        "TotalCredits":
+    }
 ]

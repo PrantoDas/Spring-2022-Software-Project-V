@@ -73,9 +73,9 @@
   {
     "DepartmentId": "RE",
     "DepartmentName": "Real Estate",
-    "TotalStudents":, // made up - non existant data
+    "TotalStudents":null, // made up - non existant data
     "DepartmentHead": "Dr. Amir Ahmed",
-    "TotalCredits": // made up - non existant data
+    "TotalCredits":null // made up - non existant data
   },
   {
     "DepartmentId": "BSEM",

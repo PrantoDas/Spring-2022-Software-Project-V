@@ -1,270 +1,182 @@
 [
   {
     "DepartmentId": "CSE",
-
     "DepartmentName": "Computer Science and Engineering",
-
-    "TotalStudents": 18000,
+    "TotalStudents": 18000, // made up - non existant data
     "DepartmentHead": "Towhid Bhuiyan",
     "TotalCredits": 148
   },
   {
     "DepartmentId": "SWE",
     "DepartmentName": "Software Engineering",
-    "TotalStudents": 780,
+    "TotalStudents": 7000, // made up - non existant data
     "DepartmentHead": "Imran Mahmud",
     "TotalCredits": 145
   },
   {
     "DepartmentId": "MCT",
     "DepartmentName": "Multimedia and Creative Technology",
-    "TotalStudents": 850,
+    "TotalStudents": 9500, // made up - non existant data
     "DepartmentHead": "Shaikh Muhammad Allayear",
     "TotalCredits": 147
   },
   {
     "DepartmentId": "GED",
-
     "DepartmentName": "General Educational Development",
-
-    "TotalStudents": ,
-
+    "TotalStudents": 2100, // made up - non existant data
     "DepartmentHead": "Md. Kamrul Hossain",
-
-    "TotalCredits": 
+    "TotalCredits": 52 // made up - non existant data
   },
-    {
-        "DepartmentId":"ESDM",
-
-        "DepartmentName":"Environment Science and Disaster Management",
-
-        "TotalStudents":,
-
-        "DepartmentHead":"A. B. M. Kamal Pasha",
-
-        "TotalCredits": 130
-
-    },
-    {
-        "DepartmentId":"CIS",
-
-        "DepartmentName":"Computing and Information System",
-
-        "TotalStudents":,
-
-        "DepartmentHead":"Md. Sarwar Hossain Molla",
-
-        "TotalCredits":142
-
-    },
-    {
-        "DepartmentId":"ITM",
-
-        "DepartmentName":"Information Technology and Management",
-
-        "TotalStudents":,
-
-        "DepartmentHead":"Imran Mahmud",
-
-        "TotalCredits":136
-
-    },
-    {
-        "DepartmentId":"BA",
-
-        "DepartmentName":"Business Administration",
-
-        "TotalStudents":,
-
-        "DepartmentHead":,
-
-        "TotalCredits":126
-    },
-    {
-        "DepartmentId":"THM",
-
-        "DepartmentName":"Tourism & Hospitality Management",
-
-        "TotalStudents":,
-
-        "DepartmentHead":"Mr. Mahbub Parvez",
-
-        "TotalCredits":
-    },
-    {
-        "DepartmentId": "IE",
-
-        "DepartmentName": "Innovation & Entrepreneurship",
-
-        "TotalStudents":,
-
-        "DepartmentHead":"Mr. Md. Kamruzzaman",
-
-        "TotalCredits":
-    },
-    {
-        "DepartmentId":"RE",
-
-        "DepartmentName":"Real Estate",
-
-        "TotalStudents":,
-
-        "DepartmentHead":"Dr. Amir Ahmed",
-
-        "TotalCredits":
-    },
-    {
-        "DepartmentId":"BSEM",
-
-        "DepartmentName":"Business studies in E-Business Management",
-
-        "TotalStudents":,
-
-        "DepartmentHead":,
-
-        "TotalCredits":
-    },
-    {
-        "DepartmentId":"ENG",
-
-        "DepartmentName":"English",
-
-        "TotalStudents":,
-
-        "DepartmentHead":"Dr. Liza Sharmin",
-
-        "TotalCredits":129
-    },
-    {
-        "DepartmentId":"LAW",
-
-        "DepartmentName":"Law",
-
-        "TotalStudents":,
-
-        "DepartmentHead":"Dr. Kudrat-E-kudda Babu",
-
-        "TotalCredits":144
-    },
-    {
-        "DepartmentId":"JMC",
-
-        "DepartmentName":"journalism, Media And Communication",
-
-        "TotalStudents":,
-
-        "DepartmentHead":"Mr. Aftab Hossin",
-
-        "TotalCredits":142
-    },
-    {
-        "DepartmentId":"DS",
-
-        "DepartmentName":"Development Studies",
-
-        "TotalStudents":,
-
-        "DepartmentHead":"Mr. Md. Fouad Hossain Sarker",
-
-        "TotalCredits":45
-    },
-    {
-        "DepartmentId":"ISLM",
-
-        "DepartmentName":"Information Science and Library Management",
-
-        "TotalStudents":,
-
-        "DepartmentHead":"Dr. Md. Milan Khan",
-
-        "TotalCredits":12
-    },
-    {
-        "DepartmentId":"ETE",
-
-        "DepartmentName":"Electronics and Telecommunication Engineering",
-
-        "TotalStudents":,
-
-        "DepartmentHead":"Mr. Md. Taslim Arefin",
-
-        "TotalCredits":145
-    },
-    {
-        "DepartmentId":"TE",
-
-        "DepartmentName":"Textile Engineering",
-
-        "TotalStudents":,
-
-        "DepartmentHead":"Mr. Md. Mominur Rhman",
-
-        "TotalCredits":150
-    },
-    {
-        "DepartmentId":"EEE",
-
-        "DepartmentName":"Electrical & Electronic Engineering",
-
-        "TotalStudents":,
-
-        "DepartmentHead":"Dr. Md. Rezwanul Ahsan",
-
-        "TotalCredits":235
-    },
-    {
-        "DepartmentId": "ARCH",
-
-        "DepartmentName": "Architecture",
-
-        "TotalStudents":,
-
-        "DepartmentHead":"Mr. Sheikh Muhammad Rezwan ",
-
-        "TotalCredits":300
-    },
-    {
-        "DepartmentId":"CE",
-
-        "DepartmentName":"Civil Engineering",
-
-        "TotalStudents":,
-
-        "DepartmentHead": "Mohammad Hannan Mahmud Khan",
-
-        "TotalCredits": null
-    },
-    {
-        "DepartmentId": "PHM",
-
-        "DepartmentName": "Pharmacy",
-
-        "TotalStudents":,
-
-        "DepartmentHead": "Muniruddin Ahmed",
-
-        "TotalCredits": 162
-    },
-    {
-        "DepartmentId": "NFE",
-
-        "DepartmentName": "Nutrition and Food Engineering",
-
-        "TotalStudents":,
-
-        "DepartmentHead": "Fouzia Akter",
-
-        "TotalCredits": 144
-    },
-    {
-        "DepartmentId": "PBH",
-
-        "DepartmentName": "Public Health",
-
-        "TotalStudents":,
-
-        "DepartmentHead": "A B M Alauddin Chowdhury",
-
-        "TotalCredits": 52
-    }
+  {
+    "DepartmentId": "ESDM",
+    "DepartmentName": "Environment Science and Disaster Management",
+    "TotalStudents":850, // made up - non existant data
+    "DepartmentHead": "A. B. M. Kamal Pasha",
+    "TotalCredits": 130
+
+  },
+  {
+    "DepartmentId": "CIS",
+    "DepartmentName": "Computing and Information System",
+    "TotalStudents": 3800, // made up - non existant data
+    "DepartmentHead": "Md. Sarwar Hossain Molla",
+    "TotalCredits": 142
+  },
+  {
+    "DepartmentId": "ITM",
+    "DepartmentName": "Information Technology and Management",
+    "TotalStudents":570, // made up - non existant data
+    "DepartmentHead": "Imran Mahmud",
+    "TotalCredits": 136
+  },
+  {
+    "DepartmentId": "BA",
+    "DepartmentName": "Business Administration",
+    "TotalStudents":1500, // made up - non existant data
+    "DepartmentHead":"Voldemort Senanikanto", // made up - non existant data
+    "TotalCredits": 126
+  },
+  {
+    "DepartmentId": "THM",
+    "DepartmentName": "Tourism & Hospitality Management",
+    "TotalStudents": 960, // made up - non existant data
+    "DepartmentHead": "Mr. Mahbub Parvez",
+    "TotalCredits": 115// made up - non existant data
+  },
+  {
+    "DepartmentId": "IE",
+    "DepartmentName": "Innovation & Entrepreneurship",
+    "TotalStudents": 679, // made up - non existant data
+    "DepartmentHead": "Mr. Md. Kamruzzaman",
+    "TotalCredits": 57// made up - non existant data
+  },
+  {
+    "DepartmentId": "RE",
+    "DepartmentName": "Real Estate",
+    "TotalStudents":, // made up - non existant data
+    "DepartmentHead": "Dr. Amir Ahmed",
+    "TotalCredits": // made up - non existant data
+  },
+  {
+    "DepartmentId": "BSEM",
+
+    "DepartmentName": "Business studies in E-Business Management",
+
+    "TotalStudents":259, // made up - non existant data
+
+    "DepartmentHead":"Jack Baba Mau", // made up - non existant data
+
+    "TotalCredits": 178// made up - non existant data
+  },
+  {
+    "DepartmentId": "ENG",
+    "DepartmentName": "English",
+    "TotalStudents": 1200, // made up - non existant data
+    "DepartmentHead": "Dr. Liza Sharmin",
+    "TotalCredits": 129
+  },
+  {
+    "DepartmentId": "LAW",
+    "DepartmentName": "Law",
+    "TotalStudents":, 230// made up - non existant data
+    "DepartmentHead": "Dr. Kudrat-E-kudda Babu",
+    "TotalCredits": 144
+  },
+  {
+    "DepartmentId": "JMC",
+    "DepartmentName": "journalism, Media And Communication",
+    "TotalStudents":75, // made up - non existant data
+    "DepartmentHead": "Mr. Aftab Hossin",
+    "TotalCredits": 142
+  },
+  {
+    "DepartmentId": "DS",
+    "DepartmentName": "Development Studies",
+    "TotalStudents": 58, // made up - non existant data
+    "DepartmentHead": "Mr. Md. Fouad Hossain Sarker",
+    "TotalCredits": 45
+  },
+  {
+    "DepartmentId": "ISLM",
+    "DepartmentName": "Information Science and Library Management",
+    "TotalStudents": 100, // made up - non existant data
+    "DepartmentHead": "Dr. Md. Milan Khan",
+    "TotalCredits": 12
+  },
+  {
+    "DepartmentId": "ETE",
+    "DepartmentName": "Electronics and Telecommunication Engineering",
+    "TotalStudents": 4300, // made up - non existant data
+    "DepartmentHead": "Mr. Md. Taslim Arefin",
+    "TotalCredits": 145
+  },
+  {
+    "DepartmentId": "TE",
+    "DepartmentName": "Textile Engineering",
+    "TotalStudents": 1599, // made up - non existant data
+    "DepartmentHead": "Mr. Md. Mominur Rhman",
+    "TotalCredits": 150
+  },
+  {
+    "DepartmentId": "EEE",
+    "DepartmentName": "Electrical & Electronic Engineering",
+    "TotalStudents": 1230, // made up - non existant data
+    "DepartmentHead": "Dr. Md. Rezwanul Ahsan",
+    "TotalCredits": 235
+  },
+  {
+    "DepartmentId": "ARCH",
+    "DepartmentName": "Architecture",
+    "TotalStudents":657, // made up - non existant data
+    "DepartmentHead": "Mr. Sheikh Muhammad Rezwan ",
+    "TotalCredits": 300
+  },
+  {
+    "DepartmentId": "CE", // made up - non existant data
+    "DepartmentName": "Civil Engineering",
+    "TotalStudents": 799, // made up - non existant data
+    "DepartmentHead": "Mohammad Hannan Mahmud Khan",
+    "TotalCredits": 172 // made up - non existant data
+  },
+  {
+    "DepartmentId": "PHM",
+    "DepartmentName": "Pharmacy",
+    "TotalStudents":3590, // made up - non existant data
+    "DepartmentHead": "Muniruddin Ahmed",
+    "TotalCredits": 162
+  },
+  {
+    "DepartmentId": "NFE",
+    "DepartmentName": "Nutrition and Food Engineering",
+    "TotalStudents":4210, // made up - non existant data
+    "DepartmentHead": "Fouzia Akter",
+    "TotalCredits": 144
+  },
+  {
+    "DepartmentId": "PBH",
+    "DepartmentName": "Public Health",
+    "TotalStudents": 59, // made up - non existant data
+    "DepartmentHead": "A B M Alauddin Chowdhury",
+    "TotalCredits": 52
+  }
 ]

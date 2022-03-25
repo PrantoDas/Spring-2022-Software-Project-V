@@ -73,9 +73,9 @@
   {
     "DepartmentId": "RE",
     "DepartmentName": "Real Estate",
-    "TotalStudents":null, // made up - non existant data
+    "TotalStudents":6700, // made up - non existant data
     "DepartmentHead": "Dr. Amir Ahmed",
-    "TotalCredits":null // made up - non existant data
+    "TotalCredits":191 // made up - non existant data
   },
   {
     "DepartmentId": "BSEM",
@@ -98,7 +98,7 @@
   {
     "DepartmentId": "LAW",
     "DepartmentName": "Law",
-    "TotalStudents":, 230// made up - non existant data
+    "TotalStudents": 230,// made up - non existant data
     "DepartmentHead": "Dr. Kudrat-E-kudda Babu",
     "TotalCredits": 144
   },

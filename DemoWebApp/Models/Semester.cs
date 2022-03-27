@@ -7,7 +7,7 @@
         public int Year { get; set; } = 0;
         public int Credit { get; set; }
 
-        public int Number { get; set; }
+        public string Number { get; set; }
         public string Duration { get; set; }
     }
 }

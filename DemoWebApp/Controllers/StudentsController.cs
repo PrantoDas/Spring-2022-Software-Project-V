@@ -189,6 +189,7 @@ namespace DemoWebApp.Controllers
                     //Birthdate = student.Birthdate,
                     Email = student.Email,
                     Section = student.Section,
+                    CGPA = student.CGPA,
                 });
             }
             await _context.SaveChangesAsync();

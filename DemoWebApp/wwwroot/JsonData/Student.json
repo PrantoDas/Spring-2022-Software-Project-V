@@ -4,707 +4,808 @@
     "Name": "Motawash Semeen Chowdhury",
     "Age": 22,
     "Email": "motawash15-14166@diu.edu.bd",
-    "Section": "I+K"
+    "Section": "I+K",
+    "CGPA": 3.75
   },
   {
     "Id": "201-15-14179",
     "Name": "Tasmiah Tababsum Kashfi",
     "Age": 21,
     "Email": "tasmiah15-14179@diu.edu.bd",
-    "Section": "I+K"
+    "Section": "I+K",
+    "CGPA": 3.60
   },
   {
     "Id": "201-15-14198",
     "Name": "Shaima Jahan",
     "Age": 20,
     "Email": "shaima15-14198@diu.edu.bd",
-    "Section": "J"
+    "Section": "J",
+    "CGPA": 3.58
   },
   {
     "Id": "201-15-14274",
     "Name": "Mohammad Nasirul Haque",
     "Age": 21,
     "Email": "mohammad15-14274@diu.edu.bd",
-    "Section": "L"
+    "Section": "L",
+    "CGPA": 3.40
   },
   {
     "Id": "201-15-14336",
     "Name": "MD MOMENUL ISLAM",
     "Age": 19,
     "Email": "momenul15-14336@diu.edu.bd",
-    "Section": "N"
+    "Section": "N",
+    "CGPA": 3.33
   },
   {
     "Id": "193-15-13403",
     "Name": "Tamanna Tahmin",
     "Age": 18,
     "Email": "tamanna15-13403@diu.edu.bd",
-    "Section": "N"
+    "Section": "N",
+    "CGPA": 3.56
   },
   {
     "Id": "201-15-13840",
     "Name": "HM Aseef Billah",
     "Age": 21,
     "Email": "aseef15-13840@diu.edu.bd",
-    "Section": "L"
+    "Section": "L",
+    "CGPA": 3.75
   },
   {
     "Id": "201-15-14216",
     "Name": "Ahnaf Shariar Hemal",
     "Age": 21,
     "Email": "ahnaf15-14216@diu.edu.bd",
-    "Section": "L"
+    "Section": "L",
+    "CGPA": 3.89
   },
   {
     "Id": "201-15-14350",
     "Name": "Nigom Mondol",
     "Age": 22,
     "Email": "nigom15-14350@diu.edu.bd",
-    "Section": "N"
+    "Section": "N",
+    "CGPA": 3.80
   },
   {
     "Id": "201-15-14048",
     "Name": "Sadamun Ahemed Biplob",
     "Age": 22,
     "Email": "sadamun15-14048@diu.edu.bd",
-    "Section": "I+K"
+    "Section": "I+K",
+    "CGPA": 3.92
   },
   {
     "Id": "201-15-14270",
     "Name": "Md Mahmudul Islam",
     "Age": 22,
     "Email": "mahmudul15-14270@diu.edu.bd",
-    "Section": "L"
+    "Section": "L",
+    "CGPA": 3.42
   },
   {
     "Id": "193-15-13481",
     "Name": "Shohidul Islam",
     "Age": 24,
     "Email": "shohidul15-13481@diu.edu.bd",
-    "Section": "N"
+    "Section": "N",
+    "CGPA": 3.23
   },
   {
     "Id": "201-15-14363",
     "Name": "Nurhuda Nahid",
     "Age": 23,
     "Email": "nur15-14363@diu.edu.bd",
-    "Section": "N"
+    "Section": "N",
+    "CGPA": 3.45
   },
   {
     "Id": "201-15-13839",
     "Name": "Rubayed Ahmmad Rakin",
     "Age": 23,
     "Email": "rubayed15-13839@diu.edu.bd",
-    "Section": "J"
+    "Section": "J",
+    "CGPA": 3.72
   },
   {
     "Id": "201-15-14251",
     "Name": "Md. Ahsan Ahmed",
     "Age": 21,
     "Email": "ahsan15-14251@diu.edu.bd",
-    "Section": "L"
+    "Section": "L",
+    "CGPA": 3.85
   },
   {
     "Id": "193-15-13536",
     "Name": "Nafisa Zaman",
     "Age": 20,
     "Email": "nafisa15-13536@diu.edu.bd",
-    "Section": "I+K"
+    "Section": "I+K",
+    "CGPA": 3.35
   },
   {
     "Id": "201-15-14272",
     "Name": "Tareq Aziz",
     "Age": 20,
     "Email": "tareq15-14272@diu.edu.bd",
-    "Section": "L"
+    "Section": "L",
+    "CGPA": 3.82
   },
   {
     "Id": "201-15-14042",
     "Name": "Habiba Dewan Arpita",
     "Age": 19,
     "Email": "habiba15-14042@diu.edu.bd",
-    "Section": "L"
+    "Section": "L",
+    "CGPA": 3.70
   },
   {
     "Id": "201-15-14170",
     "Name": "Tasnova Rebonya",
     "Age": 19,
     "Email": "tasnova15-14170@diu.edu.bd",
-    "Section": "I+K"
+    "Section": "I+K",
+    "CGPA": 3.61
   },
   {
     "Id": "201-15-14230",
     "Name": "Muhammad Roknujjaman Abid",
     "Age": 21,
     "Email": "muhammad15-14230@diu.edu.bd",
-    "Section": "L"
+    "Section": "L",
+    "CGPA": 3.55
   },
   {
     "Id": "201-15-13724",
     "Name": "Ahsanur Rahman Sumon",
     "Age": 21,
     "Email": "ahsanur15-13724@diu.edu.bd",
-    "Section": "L"
+    "Section": "L",
+    "CGPA": 3.34
   },
   {
     "Id": "201-15-14194",
     "Name": "Md. Anas Ahmmad Safowan",
     "Age": 20,
     "Email": "anas15-14194@diu.edu.bd",
-    "Section": "J"
+    "Section": "J",
+    "CGPA": 3.71
   },
   {
     "Id": "201-15-13893",
     "Name": "Maharunnesa Nishi",
     "Age": 19,
     "Email": "maharun15-13893@diu.edu.bd",
-    "Section": "L"
+    "Section": "L",
+    "CGPA": 3.61
   },
   {
     "Id": "201-15-14275",
     "Name": "Mahfuzur Rahman",
     "Age": 20,
     "Email": "mahfuzur15-14275@diu.edu.bd",
-    "Section": "L"
+    "Section": "L",
+    "CGPA": 3.45
   },
   {
     "Id": "193-15-13470",
     "Name": "RATHINDRA NATH ROY ",
     "Age": 20,
     "Email": "rathindra15-13470@diu.edu.bd",
-    "Section": "N"
+    "Section": "N",
+    "CGPA": 3.00
   },
   {
     "Id": "201-15-13759",
     "Name": "Md. Mahin Shahriyar Mahi",
     "Age": 20,
     "Email": "mahin15-13759@diu.edu.bd",
-    "Section": "L"
+    "Section": "L",
+    "CGPA": 3.44
   },
   {
     "Id": "201-15-13969",
     "Name": "Rupanti Zaman Oishy",
     "Age": 18,
     "Email": "rupanti15-13969@diu.edu.bd",
-    "Section": "I+K"
+    "Section": "I+K",
+    "CGPA": 3.75
   },
   {
     "Id": "193-15-13575",
     "Name": "Md. Meshkat Jahan Dipu",
     "Age": 25,
     "Email": "meshkat15-13575@diu.edu.bd",
-    "Section": "I+K"
+    "Section": "I+K",
+    "CGPA": 3.33
   },
   {
     "Id": "201-15-13858",
     "Name": "Most.Maria Akther Mimi",
     "Age": 19,
     "Email": "maria15-13858@diu.edu.bd",
-    "Section": "N"
+    "Section": "N",
+    "CGPA": 3.59
   },
   {
     "Id": "201-15-13876",
     "Name": "Kiwser Ahmmed Sajib",
     "Age": 22,
     "Email": "kiwser15-13876@diu.edu.bd",
-    "Section": "J"
+    "Section": "J",
+    "CGPA": 3.45
   },
   {
     "Id": "201-15-13599",
     "Name": "Mst.Shadia Sultana",
     "Age": 18,
     "Email": "shadia15-13599@diu.edu.bd",
-    "Section": "J"
+    "Section": "J",
+    "CGPA": 3.52
   },
   {
     "Id": "193-15-13530",
     "Name": "Mst.Rona Akter Asha",
     "Age": 18,
     "Email": "rona15-13530@diu.edu.bd",
-    "Section": "N"
+    "Section": "N",
+    "CGPA": 3.32
   },
   {
     "Id": "201-15-13743",
     "Name": "Abdur Rahman Siam",
     "Age": 21,
     "Email": "abdur15-13743@diu.edu.bd",
-    "Section": "I+K"
+    "Section": "I+K",
+    "CGPA": 3.55
   },
   {
     "Id": "201-15-13714",
     "Name": "Sabrina Akter Sorna",
     "Age": 19,
     "Email": "sabrina15-13714@diu.edu.bd",
-    "Section": "J"
+    "Section": "J",
+    "CGPA": 3.75
   },
   {
     "Id": "201-15-14208",
     "Name": "Hasib Ahmed ",
     "Age": 21,
     "Email": "hasib15-14208@diu.edu.bd",
-    "Section": "J"
+    "Section": "J",
+    "CGPA": 3.50
   },
   {
     "Id": "201-15-13721",
     "Name": "Ali Ahsan Al Faisal Biswas",
     "Age": 21,
     "Email": "ali15-13721@diu.edu.bd",
-    "Section": "L"
+    "Section": "L",
+    "CGPA": 3.48
   },
   {
     "Id": "201-15-13711",
     "Name": "Md Tazbidus Samad Tazbid",
     "Age": 23,
     "Email": "tazbidus15-13711@diu.edu.bd",
-    "Section": "I+K"
+    "Section": "I+K",
+    "CGPA": 3.98
   },
   {
     "Id": "193-15-13483",
     "Name": "Rabeya boshri",
     "Age": 21,
     "Email": "rabeya15-13483@diu.edu.bd",
-    "Section": "N"
+    "Section": "N",
+    "CGPA": 3.54
   },
   {
     "Id": "193-15-13397",
     "Name": "Hadiuzzaman ovi",
     "Age": 22,
     "Email": "hadiuzzaman15-13397@diu.edu.bd",
-    "Section": "N"
+    "Section": "N",
+    "CGPA": 3.73
   },
   {
     "Id": "201-15-14256",
     "Name": "Zahinul Haque Chowdhury",
     "Age": 23,
     "Email": "zahinul15-14256@diu.edu.bd",
-    "Section": "L"
+    "Section": "L",
+    "CGPA": 3.45
   },
   {
     "Id": "201-15-14253",
     "Name": "Jeny Akter",
     "Age": 20,
     "Email": "jeny15-14253@diu.edu.bd",
-    "Section": "L"
+    "Section": "L",
+    "CGPA": 3.52
   },
   {
     "Id": "201-15-13581",
     "Name": "Foysal Alam",
     "Age": 20,
     "Email": "foysal15-13581@diu.edu.bd",
-    "Section": "L"
+    "Section": "L",
+    "CGPA": 3.46
   },
   {
     "Id": "201-15-14323",
     "Name": "MD. Murshed Alam",
     "Age": 20,
     "Email": "murshed15-14323@diu.edu.bd",
-    "Section": "N"
+    "Section": "N",
+    "CGPA": 3.45
   },
   {
     "Id": "193-15-13525",
     "Name": "Iftekhar Mohammad Taki",
     "Age": 20,
     "Email": "iftakhar15-13525@diu.edu.bd",
-    "Section": "N"
+    "Section": "N",
+    "CGPA": 3.54
   },
   {
     "Id": "201-15-14349",
     "Name": "Md Nurun Nabi",
     "Age": 20,
     "Email": "nurun15-14349@diu.edu.bd",
-    "Section": "J"
+    "Section": "J",
+    "CGPA": 3.85
   },
   {
     "Id": "201-15-14265",
     "Name": "Md.Shiam Shah",
     "Age": 20,
     "Email": "shiam15-14265@diu.edu.bd",
-    "Section": "L"
+    "Section": "L",
+    "CGPA": 3.40
   },
   {
     "Id": "201-15-13781",
     "Name": "Fahminul Islam Fahim",
     "Age": 20,
     "Email": "fahminul15-13781@diu.edu.bd",
-    "Section": "L"
+    "Section": "L",
+    "CGPA": 3.70
   },
   {
     "Id": "201-15-13875",
     "Name": "Md. Nahid Hasan",
     "Age": 20,
     "Email": "nahid15-13875@diu.edu.bd",
-    "Section": "L"
+    "Section": "L",
+    "CGPA": 3.49
   },
   {
     "Id": "193-15-13528",
     "Name": "MD. Shah Jalal",
     "Age": 20,
     "Email": "shahjalal15-13528@diu.edu.bd",
-    "Section": "N"
+    "Section": "N",
+    "CGPA": 3.86
   },
   {
     "Id": "201-15-13704",
     "Name": "Nailah Jahan Tonny",
     "Age": 20,
     "Email": "nailah15-13704@diu.edu.bd",
-    "Section": "I+K"
+    "Section": "I+K",
+    "CGPA": 3.68
   },
   {
     "Id": "201-15-13644",
     "Name": "Md Abrar Farhan Fahim",
     "Age": 20,
     "Email": "abrar15-13644@diu.edu.bd",
-    "Section": "I"
+    "Section": "I",
+    "CGPA": 3.39
   },
   {
     "Id": "201-15-13873",
     "Name": "Maliha Muttalib",
     "Age": 20,
     "Email": "maliha15-13873@diu.edu.bd",
-    "Section": "I+K"
+    "Section": "I+K",
+    "CGPA": 3.20
   },
   {
     "Id": "193-15-13388",
     "Name": "Tuhin Sarker",
     "Age": 20,
     "Email": "tuhin15-13388@diu.edu.bd",
-    "Section": "N"
+    "Section": "N",
+    "CGPA": 3.59
   },
   {
     "Id": "201-15-13822",
     "Name": "Tanvir Islam Biplob",
     "Age": 20,
     "Email": "tanvir15-13822@diu.edu.bd",
-    "Section": "I+K"
+    "Section": "I+K",
+    "CGPA": 3.68
   },
   {
     "Id": "201-15-13803",
     "Name": "MD. Shahriar Parvez Shaon",
     "Age": 20,
     "Email": "shahriar15-13803@diu.edu.bd",
-    "Section": "J"
+    "Section": "J",
+    "CGPA": 3.56
   },
   {
     "Id": "201-15-13611",
     "Name": "Anchal Deb Nath",
     "Age": 20,
     "Email": "anchal15-13611@diu.edu.bd",
-    "Section": "L"
+    "Section": "L",
+    "CGPA": 3.75
   },
   {
     "Id": "201-15-13992",
     "Name": "MD. Siam khan Chowdhury",
     "Age": 20,
     "Email": "siam15-13992@diu.edu.bd",
-    "Section": "L"
+    "Section": "L",
+    "CGPA": 3.77
   },
   {
     "Id": "201-15-14260",
     "Name": "Md.Sajajul Islam Sabbir",
     "Age": 20,
     "Email": "sajadul15-14260@diu.edu.bd",
-    "Section": "L"
+    "Section": "L",
+    "CGPA": 3.63
   },
   {
     "Id": "201-15-14276",
     "Name": "S. M. Mahfujur Rahman",
     "Age": 20,
     "Email": "mahfujur15-14276@diu.edu.bd",
-    "Section": "L"
+    "Section": "L",
+    "CGPA": 3.55
   },
   {
     "Id": "201-15-14186",
     "Name": "Shuva Dhan Baidya",
     "Age": 20,
     "Email": "shuva15-14186@diu.edu.bd",
-    "Section": "I+K"
+    "Section": "I+K",
+    "CGPA": 3.43
   },
   {
     "Id": "201-15-14249",
     "Name": "Sultana Razia",
     "Age": 20,
     "Email": "sultana15-14249@diu.edu.bd",
-    "Section": "L"
+    "Section": "L",
+    "CGPA": 3.55
   },
   {
     "Id": "201-15-14188",
     "Name": "Darun Karas Abir",
     "Age": 20,
     "Email": "darun15-14188@diu.edu.bd",
-    "Section": "J"
+    "Section": "J",
+    "CGPA": 3.35
   },
   {
     "Id": "193-15-13526",
     "Name": "Md. Sourov Mia",
     "Age": 20,
     "Email": "sourov15-13526@diu.edu.bd",
-    "Section": "N"
+    "Section": "N",
+    "CGPA": 3.73
   },
   {
     "Id": "201-15-14277",
     "Name": "Md. Mahabub Hasan",
     "Age": 20,
     "Email": "mahabub15-14277@diu.edu.bd",
-    "Section": "L"
+    "Section": "L",
+    "CGPA": 3.50
   },
   {
     "Id": "201-15-13709",
     "Name": "Ishrat Suchita",
     "Age": 20,
     "Email": "ishrat15-13709@diu.edu.bd",
-    "Section": "J"
+    "Section": "J",
+    "CGPA": 3.66
   },
   {
     "Id": "191-15-12748",
     "Name": "Raiyan Ahmad Saadi",
     "Age": 20,
     "Email": "raiyan15-12748@diu.edu.bd",
-    "Section": "N"
+    "Section": "N",
+    "CGPA": 3.75
   },
   {
     "Id": "201-15-13827",
     "Name": "Subhadra Soumi Sikder",
     "Age": 20,
     "Email": "subhadra15-13827@diu.edu.bd",
-    "Section": "I+K"
+    "Section": "I+K",
+    "CGPA": 3.90
   },
   {
     "Id": "201-15-14328",
     "Name": "Mahadi Hasan Sanny",
     "Age": 20,
     "Email": "mahadi15-14328@diu.edu.bd",
-    "Section": "N"
+    "Section": "N",
+    "CGPA": 3.35
   },
   {
     "Id": "193-15-13390",
     "Name": "Shahrin Zaman Abesh",
     "Age": 20,
     "Email": "shahrin15-13390@diu.edu.bd",
-    "Section": "N"
+    "Section": "N",
+    "CGPA": 3.25
   },
   {
     "Id": "201-15-14209",
     "Name": "Md. Sazzadur Rahman Bhuiyan",
     "Age": 20,
     "Email": "sazzadur15-14209@diu.edu.bd",
-    "Section": "J"
+    "Section": "J",
+    "CGPA": 3.53
   },
   {
     "Id": "201-15-14267",
     "Name": "Abid Hossain Masum",
     "Age": 20,
     "Email": "abid15-14267@diu.edu.bd",
-    "Section": "L"
+    "Section": "L",
+    "CGPA": 3.67
   },
   {
     "Id": "201-15-14359",
     "Name": "Sheikh Fahad",
     "Age": 20,
     "Email": "sheikh15-14359@diu.edu.bd",
-    "Section": "I"
+    "Section": "I",
+    "CGPA": 3.55
   },
   {
     "Id": "193-15-13446",
     "Name": "Akash Das",
     "Age": 20,
     "Email": "akash15-13446@diu.edu.bd",
-    "Section": "N"
+    "Section": "N",
+    "CGPA": 3.27
   },
   {
     "Id": "201-15-13877",
     "Name": "Sakibul Hasan Rony",
     "Age": 20,
     "Email": "sakibul15-13877@diu.edu.bd",
-    "Section": "L"
+    "Section": "L",
+    "CGPA": 3.60
   },
   {
     "Id": "201-15-13668",
     "Name": "Rakibul Hasan",
     "Age": 20,
     "Email": "rakibul15-13668@diu.edu.bd",
-    "Section": "J"
+    "Section": "J",
+    "CGPA": 3.55
   },
   {
     "Id": "201-15-14191",
     "Name": "Rakibul Islam Badhan",
     "Age": 20,
     "Email": "rakibul15-14191@diu.edu.bd",
-    "Section": "J"
+    "Section": "J",
+    "CGPA": 3.75
   },
   {
     "Id": "201-15-14167",
     "Name": "Mohammad Tabibur Rahman Rifat",
     "Age": 20,
     "Email": "tabibur15-14167@diu.edu.bd",
-    "Section": "I"
+    "Section": "I",
+    "CGPA": 3.85
   },
   {
     "Id": "201-15-13965",
     "Name": "Al Shadab Arnab",
     "Age": 20,
     "Email": "arnab15-13965@diu.edu.bd",
-    "Section": "I+K"
+    "Section": "I+K",
+    "CGPA": 3.67
   },
   {
     "Id": "201-15-13919",
     "Name": "Mir Shamim Nahid",
     "Age": 20,
     "Email": "mir15-13919@diu.edu.bd",
-    "Section": "J"
+    "Section": "J",
+    "CGPA": 3.53
   },
   {
     "Id": "201-15-14169",
     "Name": "P.M. ASIR ABRAR FAISAL",
     "Age": 20,
     "Email": "faisal15-14169@diu.edu.bd",
-    "Section": "I+K"
+    "Section": "I+K",
+    "CGPA": 3.41
   },
   {
     "Id": "201-15-14366",
     "Name": "Md. Sakib",
     "Age": 20,
     "Email": "sakib15-14366@diu.edu.bd",
-    "Section": "I+K"
+    "Section": "I+K",
+    "CGPA": 3.68
   },
   {
     "Id": "201-15-14352",
     "Name": "Sazia Asrak Tasmin",
     "Age": 20,
     "Email": "sazia15-14352@diu.edu.bd",
-    "Section": "I+K"
+    "Section": "I+K",
+    "CGPA": 3.55
   },
   {
     "Id": "201-15-14206",
     "Name": "Abu Sayeed Mohammad",
     "Age": 20,
     "Email": "abu15-14206@diu.edu.bd",
-    "Section": "J"
+    "Section": "J",
+    "CGPA": 3.50
   },
   {
     "Id": "201-15-14100",
     "Name": "Oly Rani Pal",
     "Age": 20,
     "Email": "oly15-14100@diu.edu.bd",
-    "Section": "I+K"
+    "Section": "I+K",
+    "CGPA": 3.77
   },
   {
     "Id": "201-15-14236",
     "Name": "NAZMUS SAKIB",
     "Age": 20,
     "Email": "nazmus15-14236@diu.edu.bd",
-    "Section": "L"
+    "Section": "L",
+    "CGPA": 3.40
   },
   {
     "Id": "201-15-14227",
     "Name": "Rejwan Habib",
     "Age": 20,
     "Email": "rejwan15-14227@diu.edu.bd",
-    "Section": "L"
+    "Section": "L",
+    "CGPA": 3.75
   },
   {
     "Id": "201-15-14115",
     "Name": "Jui Saha",
     "Age": 20,
     "Email": "jui15-14115@diu.edu.bd",
-    "Section": "I+K"
+    "Section": "I+K",
+    "CGPA": 3.80
   },
   {
     "Id": "201-15-14196",
     "Name": "Bandhan Ghosh",
     "Age": 20,
     "Email": "bandhan15-14196@diu.edu.bd",
-    "Section": "J"
+    "Section": "J",
+    "CGPA": 3.58
   },
   {
     "Id": "201-15-14367",
     "Name": "MD. Atik Hossain Emon",
     "Age": 20,
     "Email": "atik15-14367@diu.edu.bd",
-    "Section": "I+K"
+    "Section": "I+K",
+    "CGPA": 3.40
   },
   {
     "Id": "201-15-13949",
     "Name": "Tanvir Mahmud Tonmoy",
     "Age": 20,
     "Email": "tanvir15-13949@diu.edu.bd",
-    "Section": "I+K"
+    "Section": "I+K",
+    "CGPA": 3.76
   },
   {
     "Id": "201-15-14362",
     "Name": "Fahad Bin Omor",
     "Age": 20,
     "Email": "fahad15-14362@diu.edu.bd",
-    "Section": "L"
+    "Section": "L",
+    "CGPA": 3.66
   },
   {
     "Id": "201-15-14364",
     "Name": "Tanvirul Islam",
     "Age": 20,
     "Email": "muhammad15-14364@diu.edu.bd",
-    "Section": "L"
+    "Section": "L",
+    "CGPA": 3.55
   },
   {
     "Id": "201-15-14004",
     "Name": "Md Abdus Salam Patwary",
     "Age": 20,
     "Email": "abdus15-14004@diu.edu.bd",
-    "Section": "L"
+    "Section": "L",
+    "CGPA": 3.61
   },
   {
     "Id": "201-15-14258",
     "Name": "Md.Sajjadur Rahman",
     "Age": 20,
     "Email": "sajjadur15-14258@diu.edu.bd",
-    "Section": "L"
+    "Section": "L",
+    "CGPA": 3.75
   },
   {
     "Id": "201-15-14262",
     "Name": "Md. Atiq Morshed Emu",
     "Age": 20,
     "Email": "atiq15-14262@diu.edu.bd",
-    "Section": "L"
+    "Section": "L",
+    "CGPA": 3.55
   },
   {
     "Id": "201-15-13819",
     "Name": "Mahabub Jamil Showvik",
     "Age": 20,
     "Email": "mahabub15-13819@diu.edu.bd",
-    "Section": "J"
+    "Section": "J",
+    "CGPA": 3.35
   },
   {
     "Id": "201-15-14178",
     "Name": "Mahadi Samin Sadat",
     "Age": 20,
     "Email": "mahadi15-14178@diu.edu.bd",
-    "Section": "I"
+    "Section": "I",
+    "CGPA": 3.55
   },
   {
     "Id": "193-15-13389",
     "Name": "Nahida Rahman Mrittika",
     "Age": 20,
     "Email": "nahida15-13389@diu.edu.bd",
-    "Section": "N"
+    "Section": "N",
+    "CGPA": 3.48
   },
   {
     "Id": "201-15-13856",
     "Name": "F. M. Ahosanul haque",
     "Age": 20,
     "Email": "ahosanul15-13856@diu.edu.bd",
-    "Section": "J"
+    "Section": "J",
+    "CGPA": 3.60
   },
   {
     "Id": "193-15-13529",
     "Name": "Md. Yeamin Islam",
     "Age": 20,
     "Email": "yeamin15-13529@diu.edu.bd",
-    "Section": "N"
+    "Section": "N",
+    "CGPA": 4.00
   },
   {
     "Id": "201-15-14330",
     "Name": "Anamul Kabir Apu",
     "Age": 20,
     "Email": "anamul15-14330@diu.edu.bd",
-    "Section": "I+K"
+    "Section": "I+K",
+    "CGPA": 3.65
   }
 
 

@@ -1,0 +1,327 @@
+[
+  {
+    "CourseName": "Software Project-5",
+    "CourseID": "CSE317",
+    "CourseCredit": 1,
+    "CourseTeacher": "Mr. Pranto Das",
+    "Department": "CSE"
+  },
+  {
+    "CourseName": "Computer network",
+    "CourseID": "CSE313",
+    "CourseCredit": 3,
+    "CourseTeacher": "Mostak Ahmed",
+    "Department": "CSE"
+  },
+  {
+    "CourseName": "Computer network lab",
+    "CourseID": "CSE314",
+    "CourseCredit": 1,
+    "CourseTeacher": "Mostak Ahmed",
+    "Department": "CSE"
+  },
+  {
+    "CourseName": "Artificial Intelligence",
+    "CourseID": "CSE315",
+    "CourseCredit": 3,
+    "CourseTeacher": "Md. Arid Hasan",
+    "Department": "CSE"
+  },
+  {
+    "CourseName": "Database Management System",
+    "CourseID": "CSE311",
+    "CourseCredit": 3,
+    "CourseTeacher": "Nishat Sultana",
+    "Department": "CSE"
+  },
+  {
+    "CourseName": "Database Management System lab",
+    "CourseID": "CSE312",
+    "CourseCredit": 1,
+    "CourseTeacher": "Nishat Sultana",
+    "Department": "CSE"
+  },
+  {
+    "CourseName": "Basic Mathematics",
+    "CourseID": "MAT111",
+    "CourseCredit": 3,
+    "CourseTeacher": "Mr. Mohammad Abdul Halim",
+    "Department": "CSE"
+  },
+  {
+    "CourseName": "Computer Fundamentals",
+    "CourseID": "CSE112",
+    "CourseCredit": 3,
+    "CourseTeacher": "Engr. Nazmun Nessa Moon",
+    "Department": "CSE"
+  },
+  {
+    "CourseName": "Basic Physics",
+    "CourseID": "PHY113",
+    "CourseCredit": 3,
+    "CourseTeacher": "Ms. Sakia Shabnam Kader",
+    "Department": "CSE"
+  },
+  {
+    "CourseName": "Basic Physics Lab",
+    "CourseID": "PHY114",
+    "CourseCredit": 1,
+    "CourseTeacher": "Mr. Md Zakaria Khan",
+    "Department": "CSE"
+  },
+  {
+    "CourseName": "Basic Functional English and English Spoken",
+    "CourseID": "ENG113",
+    "CourseCredit": 3,
+    "CourseTeacher": "Ms. Shahnaz Ameer",
+    "Department": "CSE"
+  },
+  {
+    "CourseName": "History of Bangladesh and Bangla Language",
+    "CourseID": "GED111",
+    "CourseCredit": 3,
+    "CourseTeacher": "Ms. Tamanna Jahan",
+    "Department": "CSE"
+  },
+  {
+    "CourseName": "Programming and Problem Solving Lab",
+    "CourseID": "CSE123",
+    "CourseCredit": 2,
+    "CourseTeacher": "Mr. Masud Rabbani",
+    "Department": "CSE"
+  },
+  {
+    "CourseName": "Programming and Problem Solving",
+    "CourseID": "CSE122",
+    "CourseCredit": 2,
+    "CourseTeacher": "Mr. Masud Rabbani",
+    "Department": "CSE"
+  },
+  {
+    "CourseName": "Mathematics-II: Calculus, Complex Variables and Linear Algebra",
+    "CourseID": "MAT121",
+    "CourseCredit": 3,
+    "CourseTeacher": "Mr. Mohammad Salek Parvez",
+    "Department": "CSE"
+  },
+  {
+    "CourseName": "Bangladesh Studies",
+    "CourseID": "GED121",
+    "CourseCredit": 3,
+    "CourseTeacher": "Mr. Mohammad Faisal Akber",
+    "Department": "CSE"
+  },
+  {
+    "CourseName": "Business Application Design",
+    "CourseID": "CSE124",
+    "CourseCredit": 1,
+    "CourseTeacher": "Mr. Md. Rezwanul Islam",
+    "Department": "CSE"
+  },
+  {
+    "CourseName": "Object Oriented Programming Lab",
+    "CourseID": "CSE222",
+    "CourseCredit": 2,
+    "CourseTeacher": "Mr. Asif Uz Zaman Asif",
+    "Department": "CSE"
+  },
+  {
+    "CourseName": "Object Oriented Programming ",
+    "CourseID": "CSE221",
+    "CourseCredit": 2,
+    "CourseTeacher": "Mr. Asif Uz Zaman Asif",
+    "Department": "CSE"
+  },
+  {
+    "CourseName": "Basic Electronics",
+    "CourseID": "CSE212",
+    "CourseCredit": 1,
+    "CourseTeacher": "Engr. Mosharraf Hossain Khan",
+    "Department": "CSE"
+  },
+  {
+    "CourseName": "Basic Electronics Lab",
+    "CourseID": "CSE213",
+    "CourseCredit": 2,
+    "CourseTeacher": "Engr. Mosharraf Hossain Khan",
+    "Department": "CSE"
+  },
+  {
+    "CourseName": "Data Structure",
+    "CourseID": "CSE134",
+    "CourseCredit": 2,
+    "CourseTeacher": "Mr. Subroto Nag Pinku",
+    "Department": "CSE"
+  },
+  {
+    "CourseName": "Discrete Mathematics",
+    "CourseID": "CSE131",
+    "CourseCredit": 3,
+    "CourseTeacher": "Ms. Nishat Sultana",
+    "Department": "CSE"
+  },
+  {
+    "CourseName": "Software Project-1",
+    "CourseID": "CSE136",
+    "CourseCredit": 1,
+    "CourseTeacher": "Ms. Tanzina Afroz Rimi",
+    "Department": "CSE"
+  },
+  {
+    "CourseName": "Software Project II",
+    "CourseID": "CSE216",
+    "CourseCredit": 1,
+    "CourseTeacher": "Mr. Md. Zabirul Islam",
+    "Department": "CSE"
+  },
+  {
+    "CourseName": "Computer Graphics  ",
+    "CourseID": "CSE421",
+    "CourseCredit": 3,
+    "CourseTeacher": "Rakibul Hasan",
+    "Department": "CSE"
+  },
+  {
+    "CourseName": "System analyses and design  ",
+    "CourseID": "CSE321",
+    "CourseCredit": 3,
+    "CourseTeacher": "Mahadi Hasan khan",
+    "Department": "CSE"
+  },
+  {
+    "CourseName": "Operating System  ",
+    "CourseID": "CSE323",
+    "CourseCredit": 3,
+    "CourseTeacher": "Sakib khan",
+    "Department": "CSE"
+  },
+  {
+    "CourseName": "Compiler Design ",
+    "CourseID": "CSE331",
+    "CourseCredit": 3,
+    "CourseTeacher": "Saiful Hasan",
+    "Department": "CSE"
+  },
+  {
+    "CourseName": "Numerical Method ",
+    "CourseID": "MAT331",
+    "CourseCredit": 3,
+    "CourseTeacher": "Ms. Arifa Akter",
+    "Department": "GED"
+  },
+  {
+    "CourseName": "Social and Professional Issues in Computing ",
+    "CourseID": "CSE498",
+    "CourseCredit": 3,
+    "CourseTeacher": "Mr. Arid Hasan",
+    "Department": "GED"
+  },
+  {
+    "CourseName": "Information Security",
+    "CourseID": "CSE423",
+    "CourseCredit": 3,
+    "CourseTeacher": "Mr. Zabirul Haque ",
+    "Department": "CSE"
+  },
+  {
+    "CourseName": "Software Project VII",
+    "CourseID": "CSE416",
+    "CourseCredit": 1,
+    "CourseTeacher": "Mr. Raju Islam ",
+    "Department": "CSE"
+  },
+  {
+    "CourseName": "Software Project VI",
+    "CourseID": "CSE417",
+    "CourseCredit": 1,
+    "CourseTeacher": "Mr. Saiful Hasan",
+    "Department": "CSE"
+  },
+  {
+    "CourseName": "Web Engineering",
+    "CourseID": "CSE414",
+    "CourseCredit": 1,
+    "CourseTeacher": "Mahadi Hasan khan",
+    "Department": "CSE"
+  },
+  {
+    "CourseName": "Web Engineering Lab",
+    "CourseID": "CSE415",
+    "CourseCredit": 2,
+    "CourseTeacher": "Mahadi Hasan khan",
+    "Department": "CSE"
+  },
+  {
+    "CourseName": "Big Data and IoT Lab",
+    "CourseID": "CSE413",
+    "CourseCredit": 2,
+    "CourseTeacher": "Mahadi khan",
+    "Department": "CSE"
+  },
+  {
+    "CourseName": "Big Data and IoT",
+    "CourseID": "CSE412",
+    "CourseCredit": 1,
+    "CourseTeacher": "Mahadi Chowdhury",
+    "Department": "CSE"
+  },
+  {
+    "CourseName": "Software Engineering",
+    "CourseID": "CSE333",
+    "CourseCredit": 3,
+    "CourseTeacher": "Abdul Halim",
+    "Department": "CSE"
+  },
+  {
+    "CourseName": "Pervasive Computing",
+    "CourseID": "CSE334",
+    "CourseCredit": 3,
+    "CourseTeacher": "Shaila Siddique",
+    "Department": "CSE"
+  },
+  {
+    "CourseName": "Pervasive Computing and Mobile App Development Lab",
+    "CourseID": "CSE335",
+    "CourseCredit": 2,
+    "CourseTeacher": "Shaila Siddique",
+    "Department": "CSE"
+  },
+  {
+    "CourseName": "Economics",
+    "CourseID": "ECO300",
+    "CourseCredit": 2,
+    "CourseTeacher": "Ashik Abdullah",
+    "Department": "CSE"
+  },
+  {
+    "CourseName": "Data Mining and Machine Learning",
+    "CourseID": "CSE511",
+    "CourseCredit": 1,
+    "CourseTeacher": "Mr Zabirul Haque",
+    "Department": "CSE"
+  },
+  {
+    "CourseName": "Data Mining and Machine Learning Lab",
+    "CourseID": "CSE512",
+    "CourseCredit": 2,
+    "CourseTeacher": "Mr Zabirul Haque",
+    "Department": "CSE"
+  },
+  {
+    "CourseName": "Elective 1",
+    "CourseID": "CSE433",
+    "CourseCredit": 3,
+    "CourseTeacher": "Mr Mukul Hasan",
+    "Department": "CSE"
+  },
+  {
+    "CourseName": "Elective 2",
+    "CourseID": "CSE444",
+    "CourseCredit": 3,
+    "CourseTeacher": "Mr Arif Hasan",
+    "Department": "CSE"
+  }
+
+
+
+]

@@ -1,0 +1,442 @@
+[
+  {
+    "Id": "1",
+    "Name": "Abid hossain",
+    "Designation": "Assistant teacher",
+    "Email": "hossainabid08@gmail.com",
+    "Phone": "01957642553",
+    "JoinDate": "23-03-2022"
+  },
+  {
+    "Id": "2",
+    "Name": "Rakib hasan",
+    "Designation": "Lecturer",
+    "Email": "rakib58@gmail.com",
+    "Phone": "01442335653",
+    "JoinDate": "23-03-2022"
+  },
+  {
+    "Id": "3",
+    "Name": "Nahid Mahfuz",
+    "Designation": "Supervisor",
+    "Email": "nahidd8@gmail.com",
+    "Phone": "01945564563",
+    "JoinDate": "23-03-2022"
+  },
+  {
+    "Id": "4",
+    "Name": "Shafiq Kamal",
+    "Designation": "Lecturer",
+    "Email": "kamal092@gmail.com",
+    "Phone": "0174556463",
+    "JoinDate": "25-03-2022"
+  },
+  {
+    "Id": "5",
+    "Name": "Dorjuy Hasan",
+    "Designation": "Senior Lecturer",
+    "Email": "dorjuy71@gmail.com",
+    "Phone": "01729746163",
+    "JoinDate": "13-03-2022"
+  },
+  {
+    "Id": "6",
+    "Name": "Shahrin Zaman",
+    "Designation": "Senior Lecturer",
+    "Email": "shahringj@gmail.com",
+    "Phone": "01316246150",
+    "JoinDate": "16-04-2022"
+  },
+  {
+    "Id": "7",
+    "Name": "Abesh ",
+    "Designation": "Advisor",
+    "Email": "abesh@gmail.com",
+    "Phone": "01316246150",
+    "JoinDate": "19-02-2022"
+  },
+  {
+    "Id": "8",
+    "Name": "Sazzad Hasan",
+    "Designation": "Professor",
+    "Email": "sazzad22@gmail.com",
+    "Phone": "01729746162",
+    "JoinDate": "26-03-2022"
+  },
+  {
+    "Id": "9",
+    "Name": "Dr. Neil Perez Balba",
+    "Designation": "Visiting Professor",
+    "Email": "balba@diu.edu.bd",
+    "Phone": "01342151237",
+    "JoinDate": "23-03-2022"
+  },
+  {
+    "Id": "10",
+    "Name": "Dr.Md.Ismail Jabiullah",
+    "Designation": "Professor",
+    "Email": "ismail@diu.edu.bd",
+    "Phone": "01715789741",
+    "JoinDate": "12-03-2022"
+  },
+  {
+    "Id": "11",
+    "Name": "Nayem Mia",
+    "Designation": "Professor",
+    "Email": "nayem@diu.edu.bd",
+    "Phone": "01754239584",
+    "JoinDate": "11-03-2022"
+  },
+  {
+    "Id": "12",
+    "Name": "Ijoy Chakma",
+    "Designation": "Senior Lecturer",
+    "Email": "ijoy334@diu.edu.bd",
+    "Phone": "01352421593",
+    "JoinDate": "13-02-2022"
+  },
+  {
+    "Id": "13",
+    "Name": "Nihad Sharkar",
+    "Designation": "Lecturer",
+    "Email": "nihad15-14300@diu.edu.bd",
+    "Phone": "01767483267",
+    "JoinDate": "14-03-2022"
+  },
+  {
+    "Id": "14",
+    "Name": "Sayem Hasan",
+    "Designation": "Lecturer",
+    "Email": "sayem15-14322@diu.edu.bd",
+    "Phone": "01436542879",
+    "JoinDate": "15-05-2022"
+  },
+  {
+    "Id": "15",
+    "Name": "Jarif",
+    "Designation": "Lecturer",
+    "Email": "jarif15-14311@diu.edu.bd",
+    "Phone": "014266758",
+    "JoinDate": "24-03-2022"
+  },
+  {
+    "Id": "16",
+    "Name": "Zawad Moin",
+    "Designation": "Lecturer",
+    "Email": "jarif15-14311@diu.edu.bd",
+    "Phone": "014266758",
+    "JoinDate": "12-04-2022"
+  },
+  {
+    "Id": "17",
+    "Name": "Raiyan Tasrif",
+    "Designation": "Assistant Professor",
+    "Email": "raiyan15-14312@diu.edu.bd",
+    "Phone": "01300754129",
+    "JoinDate": "24-03-2022"
+  },
+  {
+    "Id": "18",
+    "Name": "Md.Arin",
+    "Designation": "Lecturer",
+    "Email": "arin15-14309@diu.edu.bd",
+    "Phone": "0137845291",
+    "JoinDate": "24-03-2022"
+  },
+  {
+    "Id": "19",
+    "Name": "Md.Shahjalal",
+    "Designation": "Assistant Professor",
+    "Email": "shahjalal15-13528@diu.edu.bd",
+    "Phone": "01765816710",
+    "JoinDate": "23-01-2022"
+  },
+  {
+    "Id": "20",
+    "Name": "Roman Ahmed",
+    "Designation": "Assistant Professor",
+    "Email": "roman34@diu.edu.bd",
+    "Phone": "01732145284",
+    "JoinDate": "04-03-2022"
+  },
+  {
+    "Id": "21",
+    "Name": "Shipu Khandakar",
+    "Designation": "Lecturer",
+    "Email": "shipu@diu.edu.bd",
+    "Phone": "01342587194",
+    "JoinDate": "24-03-2022"
+  },
+  {
+    "Id": "22",
+    "Name": "Md. Shamim Hasan",
+    "Designation": "Senior Lecturer",
+    "Email": "shamim23@gmail.com",
+    "Phone": "01732658749",
+    "JoinDate": "24-03-2022"
+  },
+  {
+    "Id": "23",
+    "Name": "Md. Sumon Mia",
+    "Designation": "Lecturer",
+    "Email": "sumon233@gmail.com",
+    "Phone": "0175684794",
+    "JoinDate": "24-03-2022"
+  },
+  {
+    "Id": "24",
+    "Name": "Md. Abbas Ali",
+    "Designation": "Assistant Professor",
+    "Email": "abbas.cse@diu.edu.bd",
+    "Phone": "01924196829",
+    "JoinDate": "24-03-2022"
+  },
+  {
+    "Id": "25",
+    "Name": "Mr. Aniruddha Rakshit",
+    "Designation": "Assistant Professor",
+    "Email": "aniruddha.cse@diu.edu.bd",
+    "Phone": "01830055234",
+    "JoinDate": "14-03-2022"
+  },
+  {
+    "Id": "26",
+    "Name": "Mr. Saiful Islam",
+    "Designation": "Lecturer",
+    "Email": "saiful.cse@diu.edu.bd",
+    "Phone": "01989089279",
+    "JoinDate": "12-03-2022"
+  },
+  {
+    "Id": "27",
+    "Name": "Mr. Salam Islam",
+    "Designation": "Lecturer",
+    "Email": "salam.cse@diu.edu.bd",
+    "Phone": "01640865028",
+    "JoinDate": "24-03-2022"
+  },
+  {
+    "Id": "28",
+    "Name": "Ms. Rubaiya Hafiz",
+    "Designation": "Lecturer",
+    "Email": "rubaiya.cse@diu.edu.bd",
+    "Phone": "01914194973",
+    "JoinDate": "24-03-2022"
+  },
+  {
+    "Id": "29",
+    "Name": "Nigam Mandal",
+    "Designation": "Lecturer",
+    "Email": "nigom15-14350@diu.edu.bd",
+    "Phone": "01608883419",
+    "JoinDate": "09-03-2022"
+  },
+  {
+    "Id": "30",
+    "Name": "Murshed Alam Anik",
+    "Designation": "Lecturer",
+    "Email": "nigom15-14323@diu.edu.bd",
+    "Phone": "01665721845",
+    "JoinDate": "21-03-2022"
+  },
+  {
+    "Id": "31",
+    "Name": "Abrar Asif",
+    "Designation": "Lecturer",
+    "Email": "nigom15-14321@diu.edu.bd",
+    "Phone": "01640857462",
+    "JoinDate": "27-03-2022"
+  },
+  {
+    "Id": "32",
+    "Name": "Mr.Md.Azizul Hakim",
+    "Designation": "Lecturer",
+    "Email": "azizul.cse@diu.edu.bd",
+    "Phone": "01673562638",
+    "JoinDate": "25-03-2022"
+  },
+  {
+    "Id": "33",
+    "Name": "Mahadi Hasan",
+    "Designation": "Lecturer",
+    "Email": "mahadi15-14328@diu.edu.bd",
+    "Phone": "01640865028",
+    "JoinDate": "21-03-2022"
+  },
+  {
+    "Id": "34",
+    "Name": "Mst.Eshita Khatun",
+    "Designation": "Lecturer ",
+    "Email": "eshita.cse@diu.edu.bd",
+    "Phone": "01750307888",
+    "JoinDate": "22-03-2022"
+  },
+  {
+    "Id": "35",
+    "Name": "Ms.Afsara Tasneem Misha",
+    "Designation": "Lecturer ",
+    "Email": "misha.cse@diu.edu.bd",
+    "Phone": "01920905947",
+    "JoinDate": "22-03-2022"
+  },
+  {
+    "Id": "36",
+    "Name": "Nasir hossain",
+    "Designation": "Assistant teacher",
+    "Email": "hossainnasir69@gmail.com",
+    "Phone": "01957692559",
+    "JoinDate": "21-03-2022"
+  },
+  {
+    "Id": "37",
+    "Name": "Rubayed Ahmmad",
+    "Designation": "Assistant teacher",
+    "Email": "rubayed23@gmail.com",
+    "Phone": "01854642573",
+    "JoinDate": "19-03-2022"
+  },
+  {
+    "Id": "38",
+    "Name": "Tanmoy Majumder",
+    "Designation": "Lecturer",
+    "Email": "tanmoym96@gmail.com",
+    "Phone": "01757662883",
+    "JoinDate": "16-03-2022"
+  },
+  {
+    "Id": "39",
+    "Name": "Samiul Haque",
+    "Designation": "Assistant teacher",
+    "Email": "haquesami53@gmail.com",
+    "Phone": "01959642993",
+    "JoinDate": "15-03-2022"
+  },
+  {
+    "Id": "40",
+    "Name": "Farabi hossain",
+    "Designation": "Assistant teacher",
+    "Email": "hossainfarabi09@gmail.com",
+    "Phone": "01658634425",
+    "JoinDate": "17-03-2022"
+  },
+  {
+    "Id": "41",
+    "Name": "Md. Ariful Islam",
+    "Designation": "Assistant professior",
+    "Email": "arifulislam88@gmail.com",
+    "Phone": "01975765253",
+    "JoinDate": "12-03-2022"
+  },
+  {
+    "Id": "42",
+    "Name": "Sheikh Shaon",
+    "Designation": "Assistant teacher",
+    "Email": "shaonsheikh08@gmail.com",
+    "Phone": "01887642553",
+    "JoinDate": "14-03-2022"
+  },
+  {
+    "Id": "43",
+    "Name": "Nabid hossain",
+    "Designation": "Assistant teacher",
+    "Email": "hossainnabid08@gmail.com",
+    "Phone": "01717642993",
+    "JoinDate": "16-03-2022"
+  },
+  {
+    "Id": "44",
+    "Name": "Shimanto Karmaker",
+    "Designation": "Lecturer",
+    "Email": "shimantok97@gmail.com",
+    "Phone": "01957255156",
+    "JoinDate": "15-03-2022"
+  },
+  {
+    "Id": "45",
+    "Name": "Sajid Hasan",
+    "Designation": "Assistant teacher",
+    "Email": "sajidhsn08@gmail.com",
+    "Phone": "01621588253",
+    "JoinDate": "14-03-2022"
+  },
+  {
+    "Id": "46",
+    "Name": "Md. Ashraful Alom",
+    "Designation": "Assistant professor",
+    "Email": "ashrafulalom00@gmail.com",
+    "Phone": "01757639555",
+    "JoinDate": "17-03-2022"
+  },
+  {
+    "Id": "47",
+    "Name": "Souvik Ghosh",
+    "Designation": "Assistant teacher",
+    "Email": "ghoshsouvik@gmail.com",
+    "Phone": "01638934425",
+    "JoinDate": "16-03-2022"
+  },
+  {
+    "Id": "48",
+    "Name": "Akib Ahmed",
+    "Designation": "Assistant teacher",
+    "Email": "ahmedakib111@gmail.com",
+    "Phone": "01938996220",
+    "JoinDate": "19-03-2022"
+  },
+  {
+    "Id": "49",
+    "Name": "Sadek Khan",
+    "Designation": "Assistant teacher",
+    "Email": "sadekk55@gmail.com",
+    "Phone": "01864004014",
+    "JoinDate": "13-03-2022"
+  },
+  {
+    "Id": "50",
+    "Name": "Latifa Khanom",
+    "Designation": "Lecturer",
+    "Email": "latifakhanom69@gmail.com",
+    "Phone": "01696842999",
+    "JoinDate": "24-03-2022"
+  },
+  {
+    "Id": "51",
+    "Name": "Ms.Tanjila Tisha",
+    "Designation": "Lecturer ",
+    "Email": "tisha.cse@diu.edu.bd",
+    "Phone": "01910345947",
+    "JoinDate": "06-01-2022"
+  },
+  {
+    "Id": "52",
+    "Name": "Ms.Sayla Akter",
+    "Designation": "Lecturer ",
+    "Email": "sayla.cse@diu.edu.bd",
+    "Phone": "01789005947",
+    "JoinDate": "03-03-2022"
+  },
+  {
+    "Id": "53",
+    "Name": "Ms.Soily Rahman",
+    "Designation": "Assistant Lecturer ",
+    "Email": "soily.cse@diu.edu.bd",
+    "Phone": "01820905947",
+    "JoinDate": "07-02-2022"
+  },
+  {
+    "Id": "54",
+    "Name": "Ms.Mithila",
+    "Designation": "Lecturer ",
+    "Email": "mithila.cse@diu.edu.bd",
+    "Phone": "01423205947",
+    "JoinDate": "17-01-2022"
+  },
+  {
+    "Id": "55",
+    "Name": "Akash Rahman",
+    "Designation": "Lecturer ",
+    "Email": "akash.cse@diu.edu.bd",
+    "Phone": "01780905947",
+    "JoinDate": "28-02-2022"
+  }
+]

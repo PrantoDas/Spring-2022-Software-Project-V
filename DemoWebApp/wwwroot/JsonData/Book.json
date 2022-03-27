@@ -1,0 +1,247 @@
+[
+
+  {
+    "BookNumber": 1,
+    "BookName": "Database System Concept",
+    "Author": "Abraham Silberschatz",
+    "lending_Duration": 10
+  },
+  {
+    "BookNumber": 2,
+    "BookName": "Fundamentals of Relational DBMS",
+    "Author": "S. Sumathi and S. Esakkirajan",
+    "lending_Duration": 12
+  },
+  {
+    "BookNumber": 3,
+    "BookName": "Artificial Intelligence: A Modern Approach",
+    "Author": "Stuart Russel & Peter Norvig",
+    "lending_Duration": 15
+  },
+  {
+    "BookNumber": 4,
+    "BookName": "A Practical Introduction to Python Programming",
+    "Author": "Brian Heinold",
+    "lending_Duration": 10
+  },
+  {
+    "BookNumber": 5,
+    "BookName": "Introduction to Machine Learning with Python",
+    "Author": "Andreas C. Muller and Sarah Guido",
+    "lending_Duration": 18
+  },
+  {
+    "BookNumber": 6,
+    "BookName": "Data Communication and Networking",
+    "Author": "Behrouz A. Forouzan",
+    "lending_Duration": 15
+  },
+  {
+    "BookNumber": 7,
+    "BookName": "Introductory Methods of Numerical Analysis",
+    "Author": "S. S. Sastry",
+    "lending_Duration": 12
+  },
+  {
+    "BookNumber": 8,
+    "BookName": "Numerical Analysis",
+    "Author": "Richard L. Burden",
+    "lending_Duration": 15
+  },
+  {
+    "BookNumber": 9,
+    "BookName": "Discrete Mathematics and IT's Applications",
+    "Author": "Kenneth H. Rosen",
+    "lending_Duration": 18
+  },
+  {
+    "BookNumber": 10,
+    "BookName": "System Analysis and Design",
+    "Author": "Shelly and Rosenblatt",
+    "lending_Duration": 15
+  },
+  {
+    "BookNumber": 11,
+    "BookName": "Programming with Python",
+    "Author": "T.R. Padmanabhan and Springer",
+    "lending_Duration": 10
+  },
+  {
+    "BookNumber": 12,
+    "BookName": "Python for Data Analysis",
+    "Author": "Wes McKenny and O'Reilly",
+    "lending_Duration": 10
+  },
+  {
+    "BookNumber": 13,
+    "BookName": "The Intel Microprocessor",
+    "Author": "BARRY B. BREY",
+    "lending_Duration": 10
+  },
+  {
+    "BookNumber": 14,
+    "BookName": "The Art of Assembly Language",
+    "Author": "Randall Hyde",
+    "lending_Duration": 10
+  },
+  {
+    "BookNumber": 15,
+    "BookName": "Discrete Mathematics",
+    "Author": "Kamala Krithivasan",
+    "lending_Duration": 10
+  },
+  {
+    "BookNumber": 16,
+    "BookName": "Linear Algebra",
+    "Author": "Mohammod Salek Parvez",
+    "lending_Duration": 15
+  },
+  {
+    "BookNumber": 17,
+    "BookName": "Code: The Hidden Language of Computer Hardware and Software",
+    "Author": "Charles Petzold",
+    "lending_Duration": 11
+  },
+  {
+    "BookNumber": 18,
+    "BookName": "Clean Code: A Handbook of Agile Software Craftsmanship",
+    "Author": "Robert C. Martin",
+    "lending_Duration": 18
+  },
+  {
+    "BookNumber": 19,
+    "BookName": "Code Complete: A Practical Handbook of Software Construction",
+    "Author": " Steve McConnell",
+    "lending_Duration": 19
+  },
+  {
+    "BookNumber": 20,
+    "BookName": "Algorithms",
+    "Author": "Robert Sedgewick & Kevin Wayne",
+    "lending_Duration": 21
+  },
+  {
+    "BookNumber": 21,
+    "BookName": "Types and Programming Languages",
+    "Author": "Benjamin C. Pierce",
+    "lending_Duration": 17
+  },
+  {
+    "BookNumber": 22,
+    "BookName": "The Soul of a New Machine",
+    "Author": "Tracy Kidder",
+    "lending_Duration": 23
+  },
+  {
+    "BookNumber": 23,
+    "BookName": "Hackers: Heroes of the Computer Revolution",
+    "Author": "Steven Levy",
+    "lending_Duration": 25
+  },
+  {
+    "BookNumber": 24,
+    "BookName": "The Search: How Google and Its Rivals Rewrote the Rules of Business and Transformed Our Culture",
+    "Author": "John Battelle",
+    "lending_Duration": 25
+  },
+  {
+    "BookNumber": 25,
+    "BookName": "Cracking the Coding Interview",
+    "Author": "Gayle Laakmann McDowell",
+    "lending_Duration": 22
+  },
+  {
+    "BookNumber": 26,
+    "BookName": "Structured C/C Plus Plus Programming",
+    "Author": "Dr. Mohammad Kaikobad",
+    "lending_Duration": 22
+  },
+  {
+    "BookNumber": 27,
+    "BookName": "Computer Fundamentals",
+    "Author": "PK Sinha",
+    "lending_Duration": 23
+  },
+  {
+    "BookNumber": 28,
+    "BookName": "Artificial Intelligence : A Modern Approach",
+    "Author": "Stuart J Russell",
+    "lending_Duration": 16
+  },
+  {
+    "BookNumber": 29,
+    "BookName": "Digital Logic",
+    "Author": "M. Morris Mano",
+    "lending_Duration": 32
+  },
+  {
+    "BookNumber": 30,
+    "BookName": "Linux Kernel Development",
+    "Author": "Robert Love",
+    "lending_Duration": 26
+  },
+  {
+    "BookNumber": 31,
+    "BookName": "Modern Database Management",
+    "Author": "Jeffrey A. Hoffer",
+    "lending_Duration": 28
+  },
+  {
+    "BookNumber": 32,
+    "BookName": "C Sharp 4.0 The Complete Reference",
+    "Author": "Herbert Schildt",
+    "lending_Duration": 24
+  },
+  {
+    "BookNumber": 33,
+    "BookName": "Black Hat Python",
+    "Author": "Justin Seitz",
+    "lending_Duration": 25
+  },
+  {
+    "BookNumber": 34,
+    "BookName": "Wireless Communications",
+    "Author": "Andreas F. Molisch",
+    "lending_Duration": 27
+  },
+  {
+    "BookNumber": 35,
+    "BookName": " Data Structures and Algorithms",
+    "Author": "Jeffrey D. Ullman; Alfred V. Aho; John E. Hopcroft",
+    "lending_Duration": 15
+  },
+  {
+    "BookNumber": 36,
+    "BookName": "Programming Ruby",
+    "Author": " David Thomas; Andrew Hunt; Chad Fowler",
+    "lending_Duration": 26
+  },
+  {
+    "BookNumber": 37,
+    "BookName": "Computer Systems: A Programmer's Perspective",
+    "Author": "Randal E. Bryant; David R. O'Hallaron",
+    "lending_Duration": 48
+  },
+  {
+    "BookNumber": 38,
+    "BookName": "Coders at Work",
+    "Author": "Peter Seibel",
+    "lending_Duration": 72
+  },
+  {
+    "BookNumber": 39,
+    "BookName": "Database System Concepts",
+    "Author": "Abraham Silberschatz; Henry Korth; S. Sudarshan",
+    "lending_Duration": 24
+  },
+  {
+    "BookNumber": 40,
+    "BookName": "Computer Architecture: A Quantitative Approach",
+    "Author": "John L. Hennessy; David A. Patterson",
+    "lending_Duration": 72
+  }
+
+
+
+
+]

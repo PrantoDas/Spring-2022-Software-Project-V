@@ -4,22 +4,18 @@
     ViewData["Title"] = "Index";
 }
 
-<h1>Index</h1>
+<link href="~/css/index.css" rel="stylesheet" type="text/css" />
+
+<h1 align="center"><i class="bi bi-person-lines-fill"></i> List of Students</h1>
 
 <p>
-    <a asp-action="Create">Create New</a>
+   <a
+   type="button" class="btn btn-primary"
+   asp-action="Create"><i class='fas fa-user-plus'></i> Create New</a> 
 </p>
 
-<!-- Specific section -->
-<form method = "get" asp-action="SearchBySection">
-    <p>
-        <input type="search" placeholder="Enter a section ..." value="@ViewData["GetStudentsDetails"]" name="section" style="width:500px;" />
-        <input type="submit" value="Search" class="btn btn-primary" />
-        <a asp-action="Index" class="btn btn-secondary" >Reset</a>
-    </p>
-</form>
+<table class="table table-striped table-hover">
 
-<table class="table">
     <thead>
         <tr>
             <th>
@@ -61,13 +57,21 @@
             <td>
                 @Html.DisplayFor(modelItem => item.Section)
             </td>
-            <td>
+	    <td>
                 @Html.DisplayFor(modelItem => item.CGPA)
             </td>
             <td>
-                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                <a
+                type="button" class="btn btn-success" 
+                asp-action="Edit" asp-route-id="@item.Id"><i class='far fa-edit'></i> Edit</a>
+
+                <a
+                type="button" class="btn btn-info"
+                asp-action="Details" asp-route-id="@item.Id"><i class='fas fa-list-ul'></i> Details</a>
+
+                <a
+                type="button" class="btn btn-danger"
+                asp-action="Delete" asp-route-id="@item.Id"><i class="bi bi-trash3"></i> Delete</a>
             </td>
         </tr>
 }

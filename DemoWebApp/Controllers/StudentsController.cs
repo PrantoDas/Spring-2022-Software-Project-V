@@ -82,6 +82,12 @@ namespace DemoWebApp.Controllers
         {
             if (ModelState.IsValid)
             {
+                var isIdAlreadyExists = _context.Students.Any(e => e.Id == student.Id);
+                if (isIdAlreadyExists)
+                {
+                    ModelState.AddModelError("Id", "Sorry, there already exists a student with this id. Please select a different id.");
+                    return View(student);
+                }
                 _context.Add(student);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));

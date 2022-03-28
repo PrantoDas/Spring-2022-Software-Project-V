@@ -3,14 +3,32 @@
 @{
     ViewData["Title"] = "Delete";
 }
+<link href="~/css/Delete.css" rel="stylesheet" type="text/css" asp-append-version="true"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css">
+<div class="details">
 
-<h1>Delete</h1>
-
-<h3>Are you sure you want to delete this?</h3>
-<div>
-    <h4>Student</h4>
+    <h1>Student Information to Delete <i class="bi bi-trash3"></i></h1>
+    </div>
     <hr />
-    <dl class="row">
+    <dl class="row justify-content-around">
+        <dl class="card-one col-sm-3 profile">
+            <i class="bi bi-person-fill icon"></i>
+            </br>         
+       <h5>@Html.DisplayFor(model => model.Name)</h5>
+       <hr />
+       <p>Student Of DIU | Batch-55</p>
+      
+   <form asp-action="Delete">
+        <input type="hidden" asp-for="Id" />
+        
+        <input type="submit" value="Delete" class="btn btn-danger"/>
+        
+   <a asp-action="Index"  class="btn btn-success" style="color:white" >Back to List</a>
+       
+    </form>
+        </dl>
+
+    <dl class="row col-sm-8 card-one dt-info">
         <dt class = "col-sm-2">
             @Html.DisplayNameFor(model => model.Name)
         </dt>
@@ -48,10 +66,7 @@
             @Html.DisplayFor(model => model.CGPA)
         </dd>
     </dl>
+    </dl>
     
-    <form asp-action="Delete">
-        <input type="hidden" asp-for="Id" />
-        <input type="submit" value="Delete" class="btn btn-danger" /> |
-        <a asp-action="Index">Back to List</a>
-    </form>
-</div>
+
+

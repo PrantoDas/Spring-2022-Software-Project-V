@@ -1,0 +1,43 @@
+﻿body {
+    background: url('https://img.freepik.com/free-photo/colorful-abstract-textured-background-design_53876-108265.jpg?t=st=1648484284~exp=1648484884~hmac=c687c3fb083d41b6783a6023b436d42c3a25798a7552b86abdd34543255ffff8&w=1380') no-repeat center center fixed;
+    background-size: cover;
+    opacity: 2.0;
+}
+
+.card-one {
+    background: url('https://img.freepik.com/free-photo/perspective-exterior-nobody-empty-box_1258-260.jpg?t=st=1647683696~exp=1647684296~hmac=8e9494fb81fd8dcc095828657b9f5169cd1c1f0144fbe1e0a7947562dd74daca&w=1380') no-repeat center center fixed;
+    background-size: cover;
+    opacity: inherit;
+    box-shadow: 2px 2px 10px;
+    border-radius: 10px;
+    padding: 15px;
+}
+.details {
+    background: url('https://img.freepik.com/free-photo/perspective-exterior-nobody-empty-box_1258-260.jpg?t=st=1647683696~exp=1647684296~hmac=8e9494fb81fd8dcc095828657b9f5169cd1c1f0144fbe1e0a7947562dd74daca&w=1380') no-repeat center center fixed;
+    background-size: cover;
+    opacity: inherit;
+    text-align: center;
+    box-shadow: 2px 2px 10px;
+    border-radius: 10px;
+    padding: 20px;
+    font-family: 'Work Sans', sans-serif;
+    text-shadow: 1px 1px 1px black;
+    
+}
+.details h1 {
+        color: #dc3545;
+    }
+
+.profile {
+    content: "";
+    clear: both;
+    display: table;
+    text-align: center;
+}
+.icon {
+    font-size: 200px;
+}
+.dt-info {
+    font-size: 25px;
+    
+}

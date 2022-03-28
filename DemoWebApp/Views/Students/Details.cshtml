@@ -4,51 +4,72 @@
     ViewData["Title"] = "Details";
 }
 
-<h1>Details</h1>
+<script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+<link href="~/css/Details.css" rel="stylesheet" type="text/css" asp-append-version="true" />
 
 <div>
-    <h4>Student</h4>
+    <div class="details">      
+<h1> <span class='fas fa-address-card head'></span> Student Details</h1>
+ </div>
     <hr />
-    <dl class="row">
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Name)
+  <dl class="row justify-content-around">
+    <dl class="row col-sm-3 left-cart profile">
+       <i class="material-icons">person</i>
+       </br>
+       <h5>@Html.DisplayFor(model => model.Name)</h5>
+      <hr />
+       <p>Student Of DIU | Batch-55</p>
+ 
+        </dl>
+      <dl class="row col-sm-8 left-cart dt-info">
+         
+        <dt class = "col-sm-3">
+            <i class='fas fa-address-book'></i> @Html.DisplayNameFor(model => model.Name)
+         
         </dt>
-        <dd class = "col-sm-10">
+        <dd class = "col-sm-9">
             @Html.DisplayFor(model => model.Name)
         </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Birthdate)
+        <dt class = "col-sm-3">
+            <i class="bi bi-calendar"></i> @Html.DisplayNameFor(model => model.Birthdate)
         </dt>
-        <dd class = "col-sm-10">
+        <dd class = "col-sm-9">
             @Html.DisplayFor(model => model.Birthdate)
         </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Age)
+        <dt class = "col-sm-3">
+          <i class='fab fa-adn'></i> @Html.DisplayNameFor(model => model.Age)
         </dt>
-        <dd class = "col-sm-10">
+        <dd class = "col-sm-9">
             @Html.DisplayFor(model => model.Age)
         </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Email)
+        <dt class = "col-sm-3">
+            <i class='fas fa-envelope-open'></i> @Html.DisplayNameFor(model => model.Email)
         </dt>
-        <dd class = "col-sm-10">
+        <dd class = "col-sm-9">
             @Html.DisplayFor(model => model.Email)
         </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Section)
+        <dt class = "col-sm-3">
+            <i class='fas fa-folder'></i> @Html.DisplayNameFor(model => model.Section)
         </dt>
-        <dd class = "col-sm-10">
+        <dd class = "col-sm-9">
             @Html.DisplayFor(model => model.Section)
         </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.CGPA)
+        <dt class = "col-sm-3">
+            <i class='fas fa-poll'></i> @Html.DisplayNameFor(model => model.CGPA)
         </dt>
-        <dd class = "col-sm-10">
+        <dd class = "col-sm-9">
             @Html.DisplayFor(model => model.CGPA)
         </dd>
+      
     </dl>
+    
+  </dl>
+   <div class="bottom">       
+    <a asp-action="Edit" asp-route-id="@Model?.Id"><button type="button" class="btn btn-success">Edit</button></a>
+
+
+    <a asp-action="Index"><button type="button" class="btn btn-secondary">Back to List</button></a>
 </div>
-<div>
-    <a asp-action="Edit" asp-route-id="@Model?.Id">Edit</a> |
-    <a asp-action="Index">Back to List</a>
+
 </div>

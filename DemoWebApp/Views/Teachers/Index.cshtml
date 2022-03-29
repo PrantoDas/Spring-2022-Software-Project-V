@@ -4,54 +4,57 @@
     ViewData["Title"] = "Index";
 }
 
-<h1>Index</h1>
+ <link rel="stylesheet" href="~/css/Teacher-index.css" asp-append-version="true"/>
+
+
+<h1 class="title">Index</h1>
 
 <p>
-    <a asp-action="Create">Create New</a>
+      <a asp-action="Create"><button Style="background-color:#00BFFF; border-color : #00BFFF; color : white">Create New</button></a>
 </p>
 <table class="table">
     <thead>
         <tr>
-            <th>
+            <th class="tabel_head head2">
                 @Html.DisplayNameFor(model => model.Name)
             </th>
-            <th>
+            <th class="tabel_head head2">
                 @Html.DisplayNameFor(model => model.Designation)
             </th>
-            <th>
+            <th class="tabel_head head2">
                 @Html.DisplayNameFor(model => model.Email)
             </th>
-            <th>
+            <th class="tabel_head head2">
                 @Html.DisplayNameFor(model => model.Phone)
             </th>
-            <th>
+            <th class="tabel_head head2">
                 @Html.DisplayNameFor(model => model.JoinDate)
             </th>
             <th></th>
         </tr>
     </thead>
-    <tbody>
+    <tbody class="data_table">
 @foreach (var item in Model) {
         <tr>
-            <td>
+            <td class="data">
                 @Html.DisplayFor(modelItem => item.Name)
             </td>
-            <td>
+            <td class="data">
                 @Html.DisplayFor(modelItem => item.Designation)
             </td>
-            <td>
+            <td class="data">
                 @Html.DisplayFor(modelItem => item.Email)
             </td>
-            <td>
+            <td class="data">
                 @Html.DisplayFor(modelItem => item.Phone)
             </td>
-            <td>
+            <td class="data">
                 @Html.DisplayFor(modelItem => item.JoinDate)
             </td>
             <td>
-                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                <a asp-action="Edit" asp-route-id="@item.Id"><button Style="background-color:green;border-radius:3px;border-color :#87CEEB ; color : white" >Edit</button></a>
+                <a asp-action="Details" asp-route-id="@item.Id"><button Style="background-color:deepskyblue; border-radius:3px; border-color : gray; color : white" >Details</button></a> |
+                <a asp-action="Delete" asp-route-id="@item.Id"><button Style="background-color:tomato; border-radius:3px; border-color : red; color : white" >Delete</button></a>
             </td>
         </tr>
 }

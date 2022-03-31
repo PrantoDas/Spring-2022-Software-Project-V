@@ -3,11 +3,15 @@
 @{
     ViewData["Title"] = "Edit";
 }
+<link href="~/css/Departments-Create.css" rel="stylesheet" type="text/css" />
 
 <h1>Edit</h1>
 
 <h4>Department</h4>
 <hr />
+
+<div class="card"> 
+    <div class="card-body-one">
 <div class="row">
     <div class="col-md-4">
         <form asp-action="Edit">
@@ -39,9 +43,13 @@
         </form>
     </div>
 </div>
+ </div>
+</div>
 
 <div>
-    <a asp-action="Index">Back to List</a>
+    <center>
+    <a asp-action="Index" class="btn btn-info" >Back to List</a>
+    </center>
 </div>
 
 @section Scripts {

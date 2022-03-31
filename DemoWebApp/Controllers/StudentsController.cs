@@ -22,14 +22,23 @@ namespace DemoWebApp.Controllers
         }
 
         // GET: Students
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index(string searchtext = "")
         {
             if (_context.Students.ToList().Count == 0)
             {
                 await LoadStudentData();
             }
 
-            return View(await _context.Students.ToListAsync());
+            List<Student> students = new List<Student>();
+            if (searchtext != "" && searchtext != null)
+            {
+                students = await _context.Students.Where(_context => _context.Name.Contains(searchtext)).ToListAsync();
+            }
+            else
+            {
+                students = await _context.Students.ToListAsync();
+            }
+            return View(students);
         }
 
         // GET: Info for specific section details

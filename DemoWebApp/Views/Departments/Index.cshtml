@@ -5,47 +5,56 @@
 }
 
 <h1>Index</h1>
+<link href="~/css/department-index.css" rel="stylesheet" type="text/css" asp-append-version="true" />
 
 <p>
     <a asp-action="Create">Create New</a>
 </p>
-<table class="table">
-    <thead>
-        <tr>
-            <th>
+<table class="tableMain">
+    <thead class="thead">
+        <tr class="tableRow">
+            <th class="tableHeading">
+                @Html.DisplayNameFor(model => model.DepartmentId)
+            </th>
+            <th class="tableHeading">
                 @Html.DisplayNameFor(model => model.DepartmentName)
             </th>
-            <th>
+            <th class="tableHeading">
                 @Html.DisplayNameFor(model => model.TotalStudents)
             </th>
-            <th>
+            <th class="tableHeading">
                 @Html.DisplayNameFor(model => model.DepartmentHead)
             </th>
-            <th>
+            <th class="tableHeading">
                 @Html.DisplayNameFor(model => model.TotalCredits)
             </th>
-            <th></th>
+            <th class="tableHeading"></th>
         </tr>
     </thead>
-    <tbody>
+    <tbody class="tableBody">
 @foreach (var item in Model) {
-        <tr>
-            <td>
+        <tr class="tableBodyRow">
+            <td class="tableData">
                 @Html.DisplayFor(modelItem => item.DepartmentName)
             </td>
-            <td>
+            <td class="tableData">
+                @Html.DisplayFor(modelItem => item.DepartmentName)
+            </td>
+            <td class="tableData">
                 @Html.DisplayFor(modelItem => item.TotalStudents)
             </td>
-            <td>
+            <td class="tableData">
                 @Html.DisplayFor(modelItem => item.DepartmentHead)
             </td>
-            <td>
+            <td class="tableData">
                 @Html.DisplayFor(modelItem => item.TotalCredits)
             </td>
-            <td>
-                <a asp-action="Edit" asp-route-id="@item.DepartmentId">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.DepartmentId">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.DepartmentId">Delete</a>
+            <td class="AllBtn">
+                <button class="btn edit"><a asp-action="Edit" asp-route-id="@item.DepartmentId">Edit</a></button> |
+                <button class="btn details"><a asp-action="Details" asp-route-id="@item.DepartmentId">Details</a></button> |
+                <button class="btn delete"><a asp-action="Delete" asp-route-id="@item.DepartmentId">Delete</a></button>
+
+                
             </td>
         </tr>
 }

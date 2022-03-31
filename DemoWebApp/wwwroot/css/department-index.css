@@ -1,0 +1,96 @@
+﻿
+
+
+
+
+.tableMain {
+    border-collapse: collapse;
+    width: 100%;
+    border-radius: 50px;
+}
+
+.tableMain,
+.thead,
+.tableRow {
+    background-color: #009879;
+    color: white;
+    text-align: center;
+}
+
+.tableMain,
+.thead,
+.tableRow,
+.tableHeading {
+    padding: 16px 20px;
+    font-size: 14px;
+    border:1px solid black;
+}
+.tableHeading:hover{
+    background-color:seagreen;
+    color:white;
+}
+.tableBody,
+.tableBodyRow {
+    background-color: white;
+    border: 1px solid black;
+}
+
+.tableData {
+    background-color: antiquewhite;
+    padding: 10px 0px;
+    color: black;
+    border: 1px solid black;
+    text-align: center;
+    border-bottom: 10px;
+    transition: 2s;
+    font-weight:bold;
+}
+
+    .tableData:hover {
+        background-color: lightcoral;
+        color: black;
+        transform: scale(5s)
+    }
+
+.tableBody,
+.tableBodyRow:last-of-type {
+    border-bottom: 2px solid #009879;
+}
+
+.AllBtn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 12px 20px;
+    background-color: seashell;
+}
+
+.btn a{
+    padding:7px 10px;
+    border-radius:20px;
+    list-style:none;
+    margin-bottom:30px;
+    color:white;
+    text-decoration:none;
+}
+.edit{
+    background-color:green;
+   border:1px solid black;
+}
+.edit:hover{
+    background-color:cadetblue;
+    color:black;
+}
+.details{
+    background-color:palevioletred;
+}
+.details:hover{
+    background-color:darkslategray;
+    color:white
+}
+.delete {
+    background-color: salmon;
+}
+.delete:hover{
+    background-color:red;
+}

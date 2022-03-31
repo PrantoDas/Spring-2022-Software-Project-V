@@ -9,6 +9,18 @@
 <p>
     <a asp-action="Create">Create New</a>
 </p>
+
+
+<!--  Searching UI -->
+<form method = "get" asp-action="SearchByBook">
+    <p>
+        <input type="search" placeholder=" Enter an author name . . .  " value="@ViewData["GetBooksDetails"]" name="author" style="width:500px;" />
+        <input type="submit" value="Search" class="btn btn-primary" />
+        <a asp-action="Index" class="btn btn-secondary" >Reset</a>
+    </p>
+</form>
+
+
 <table class="table">
     <thead>
         <tr>

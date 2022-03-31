@@ -32,6 +32,25 @@ namespace DemoWebApp.Controllers
             return View(await _context.Books.ToListAsync());
         }
 
+
+
+        // GET: Info Of Author
+        [HttpGet]
+        public async Task<IActionResult> SearchByBook(string author)
+        {
+            ViewData["GetBooksDetails"] = author;
+
+            var books = from m in _context.Books select m;
+
+            if (!String.IsNullOrEmpty(author))
+            {
+                books = books.Where(q => q.Author.ToLower().Contains(author.ToLower()));
+            }
+
+            return View("Index", await books.AsNoTracking().ToListAsync());
+        }
+
+
         // GET: Books/Details/5
         public async Task<IActionResult> Details(int? id)
         {
